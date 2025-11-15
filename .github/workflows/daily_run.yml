@@ -2,44 +2,44 @@ name: Daily Price Monitor Bot
 
 on:
   schedule:
-    # Runs every day at 8:00 AM UTC
-    # You can change this using standard cron syntax
+    # Runs every day at 8:00 AM UTC (adjust as needed using cron syntax)
     - cron: '0 8 * * *'
-  # Allows you to manually trigger the workflow from the GitHub Actions tab
+  # Allows you to trigger the workflow manually from the GitHub Actions tab
   workflow_dispatch:
 
 jobs:
   run-scraper:
-    # Use a standard Linux runner environment
     runs-on: ubuntu-latest
+    
+    # REQUIRED: Grants the GITHUB_TOKEN write permission for the auto-commit step
+    permissions:
+      contents: write 
 
     steps:
       - name: Checkout code
-        # Downloads your repository code to the runner
         uses: actions/checkout@v4
 
       - name: Set up Python environment
-        # Installs a specific Python version
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           
       - name: Install dependencies
-        # Installs all libraries from your requirements.txt file
+        # Installs requests, beautifulsoup4, and python-telegram-bot
         run: pip install -r requirements.txt
 
       - name: Run Scraper Bot
-        # Executes your main Python script
+        # Assumes scraper_bot.py is in the root directory (to fix your previous error)
         run: python scraper_bot.py
         env:
-          # IMPORTANT: Passes your secure secrets to the Python script
-          # The names below MUST match the secrets you created in step 1
+          # Injects the Telegram secrets you configured
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           
       - name: Commit updated history
-        # Commits the updated 'previous_deals.json' file back to GitHub
+        # Commits the 'previous_deals.json' file with the latest deal IDs
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'BOT: Updated deal history'
           file_pattern: previous_deals.json
+          
