@@ -1,45 +1,35 @@
-name: Daily Price Monitor Bot
+name: Run Dublin MVP
 
 on:
-  schedule:
-    # Runs every day at 8:00 AM UTC (adjust as needed using cron syntax)
-    - cron: '0 8 * * *'
-  # Allows you to trigger the workflow manually from the GitHub Actions tab
   workflow_dispatch:
+  schedule:
+    - cron: "0 9 * * *"  # daily 09:00 UTC
 
 jobs:
-  run-scraper:
+  run:
     runs-on: ubuntu-latest
-    
-    # REQUIRED: Grants the GITHUB_TOKEN write permission for the auto-commit step
-    permissions:
-      contents: write 
-
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python environment
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-          
-      - name: Install dependencies
-        # Installs requests, beautifulsoup4, and python-telegram-bot
-        run: pip install -r requirements.txt
+          python-version: "3.11"
 
-      - name: Run Scraper Bot
-        # Assumes scraper_bot.py is in the root directory (to fix your previous error)
-        run: python scraper_bot.py
-        env:
-          # Injects the Telegram secrets you configured
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          
-      - name: Commit updated history
-        # Commits the 'previous_deals.json' file with the latest deal IDs
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run
+        run: |
+          python run.py
+
+      - name: Upload CSV artifacts
+        uses: actions/upload-artifact@v4
         with:
-          commit_message: 'BOT: Updated deal history'
-          file_pattern: previous_deals.json
-          
+          name: dublin-stores
+          path: |
+            stores_dublin.csv
+            stores_with_websites.csv
