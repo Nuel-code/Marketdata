@@ -2,6 +2,7 @@ import time
 import random
 import requests
 import pandas as pd
+from urllib.parse import urlparse
 
 BBOX = (53.20, -6.45, 53.45, -6.05)  # Dublin
 
@@ -46,7 +47,7 @@ def overpass_post(q: str, timeout=180, tries=6):
             time.sleep(sleep_s)
     raise last_err
 
-def normalize_url(u: str | None) -> str | None:
+def normalize_url(u):
     if not u or not isinstance(u, str):
         return None
     u = u.strip()
@@ -55,6 +56,20 @@ def normalize_url(u: str | None) -> str | None:
     if not u.startswith(("http://", "https://")):
         u = "https://" + u
     return u
+
+def website_domain(u):
+    if not u:
+        return None
+    try:
+        netloc = urlparse(u).netloc.lower()
+        return netloc.replace("www.", "", 1)
+    except Exception:
+        return None
+
+def maps_url(lat, lon):
+    if lat is None or lon is None:
+        return None
+    return f"https://www.google.com/maps/search/?api=1&query={lat},{lon}"
 
 def fetch_osm():
     rows = []
@@ -74,16 +89,20 @@ def fetch_osm():
 
             website = normalize_url(tags.get("website") or tags.get("contact:website"))
 
+            addr = " ".join(filter(None, [
+                tags.get("addr:housenumber"),
+                tags.get("addr:street"),
+                tags.get("addr:city"),
+                tags.get("addr:postcode"),
+            ])) or None
+
             rows.append({
-                "name": name,
                 "category": f"{k}={v}",
+                "name": name,
+                "addr": addr,
                 "website": website,
-                "addr": " ".join(filter(None, [
-                    tags.get("addr:housenumber"),
-                    tags.get("addr:street"),
-                    tags.get("addr:city"),
-                    tags.get("addr:postcode"),
-                ])) or None,
+                "website_domain": website_domain(website),
+                "maps": maps_url(lat, lon),
                 "phone": tags.get("phone") or tags.get("contact:phone"),
                 "brand": tags.get("brand"),
                 "lat": lat,
@@ -93,52 +112,65 @@ def fetch_osm():
             })
 
     df = pd.DataFrame(rows).drop_duplicates(subset=["osm_type", "osm_id"])
-    # Make it look sane
+    # Clean + stable sort so it stays organised
+    df["phone"] = df["phone"].astype("string")
     df = df.sort_values(["category", "name"], kind="stable").reset_index(drop=True)
     return df
 
-def to_xlsx_with_hyperlinks(df: pd.DataFrame, path: str):
-    # Write with xlsxwriter so links become clickable
+def write_xlsx(df_all: pd.DataFrame, df_web: pd.DataFrame, path: str):
+    # Requires XlsxWriter installed
     with pd.ExcelWriter(path, engine="xlsxwriter") as writer:
-        df.to_excel(writer, index=False, sheet_name="stores")
+        df_all.to_excel(writer, index=False, sheet_name="stores_all")
+        df_web.to_excel(writer, index=False, sheet_name="stores_with_websites")
+
         wb = writer.book
-        ws = writer.sheets["stores"]
 
-        # Freeze header row
-        ws.freeze_panes(1, 0)
+        def style_sheet(sheet_name, df):
+            ws = writer.sheets[sheet_name]
+            ws.freeze_panes(1, 0)
+            ws.autofilter(0, 0, len(df), len(df.columns) - 1)
 
-        # Set column widths
-        col_widths = {
-            "name": 30, "category": 18, "website": 45, "addr": 35,
-            "phone": 18, "brand": 18, "lat": 10, "lon": 10,
-            "osm_type": 10, "osm_id": 12
-        }
-        for i, col in enumerate(df.columns):
-            ws.set_column(i, i, col_widths.get(col, 18))
+            # Column widths (phone-friendly)
+            widths = {
+                "category": 16, "name": 30, "addr": 35,
+                "website": 45, "website_domain": 22, "maps": 45,
+                "phone": 16, "brand": 18, "lat": 10, "lon": 10,
+                "osm_type": 10, "osm_id": 12,
+            }
+            for i, col in enumerate(df.columns):
+                ws.set_column(i, i, widths.get(col, 18))
 
-        # Convert website cells to real hyperlinks
-        if "website" in df.columns:
+            # Turn website + maps into real hyperlinks
             link_fmt = wb.add_format({"font_color": "blue", "underline": 1})
-            website_col_idx = df.columns.get_loc("website")
-            for row_idx, url in enumerate(df["website"].tolist(), start=2):  # Excel rows start at 1, header is row 1
-                if isinstance(url, str) and url.startswith(("http://", "https://")):
-                    ws.write_url(row_idx - 1, website_col_idx, url, link_fmt, string=url)
+
+            if "website" in df.columns:
+                c = df.columns.get_loc("website")
+                for r, url in enumerate(df["website"].tolist(), start=2):
+                    if isinstance(url, str) and url.startswith(("http://", "https://")):
+                        ws.write_url(r - 1, c, url, link_fmt, string=url)
+
+            if "maps" in df.columns:
+                c = df.columns.get_loc("maps")
+                for r, url in enumerate(df["maps"].tolist(), start=2):
+                    if isinstance(url, str) and url.startswith(("http://", "https://")):
+                        ws.write_url(r - 1, c, url, link_fmt, string="Open in Maps")
+
+        style_sheet("stores_all", df_all)
+        style_sheet("stores_with_websites", df_web)
 
 def main():
-    df = fetch_osm()
+    df_all = fetch_osm()
+    df_web = df_all[df_all["website"].notna()].copy()
 
-    # CSV (plain text)
-    df.to_csv("stores_dublin.csv", index=False)
-
-    df_web = df[df["website"].notna()].copy()
+    # Keep CSVs (source-of-truth + easy diffs)
+    df_all.to_csv("stores_dublin.csv", index=False)
     df_web.to_csv("stores_with_websites.csv", index=False)
 
-    # XLSX (clickable links)
-    to_xlsx_with_hyperlinks(df, "stores_dublin.xlsx")
-    to_xlsx_with_hyperlinks(df_web, "stores_with_websites.xlsx")
+    # The spreadsheet you actually use
+    write_xlsx(df_all, df_web, "dublin_stores.xlsx")
 
-    print(f"All stores: {len(df)} | With websites: {len(df_web)}")
-    print("Wrote: stores_dublin.xlsx, stores_with_websites.xlsx")
+    print(f"All stores: {len(df_all)} | With websites: {len(df_web)}")
+    print("Wrote: dublin_stores.xlsx (+ CSVs)")
 
 if __name__ == "__main__":
     main()
