@@ -22,16 +22,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run
+      - name: Run pipeline
         run: |
           python run.py
 
       - name: Upload output artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: dublin-stores
+          name: dublin-mvp-output
           path: |
             stores_dublin.csv
             stores_with_websites.csv
-            stores_dublin.xlsx
-            stores_with_websites.xlsx
+            dublin_stores.xlsx
+            promo_urls.csv
+            promo_urls.xlsx
