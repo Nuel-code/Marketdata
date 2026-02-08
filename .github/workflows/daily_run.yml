@@ -26,10 +26,12 @@ jobs:
         run: |
           python run.py
 
-      - name: Upload CSV artifacts
+      - name: Upload output artifacts
         uses: actions/upload-artifact@v4
         with:
           name: dublin-stores
           path: |
             stores_dublin.csv
             stores_with_websites.csv
+            stores_dublin.xlsx
+            stores_with_websites.xlsx
