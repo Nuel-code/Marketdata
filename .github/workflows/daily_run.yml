@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "0 9 * * *"  # daily 09:00 UTC
 
+permissions:
+  contents: write
+
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -26,6 +29,21 @@ jobs:
         run: |
           python run.py
 
+      - name: Commit published_deals.json to repo
+        run: |
+          # Only commit if the file exists
+          test -f published_deals.json
+
+          mkdir -p data
+          mv -f published_deals.json data/published_deals.json
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data/published_deals.json
+          git commit -m "Update published deals feed" || echo "No changes to commit"
+          git push
+
       - name: Upload output artifacts
         uses: actions/upload-artifact@v4
         with:
@@ -37,4 +55,4 @@ jobs:
             promo_urls.csv
             promo_urls.xlsx
             deals.xlsx
-            published_deals.json
+            data/published_deals.json
