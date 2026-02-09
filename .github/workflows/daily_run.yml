@@ -36,3 +36,5 @@ jobs:
             dublin_stores.xlsx
             promo_urls.csv
             promo_urls.xlsx
+            deals.xlsx
+            published_deals.json
