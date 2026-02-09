@@ -14,6 +14,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -29,11 +32,14 @@ jobs:
         run: |
           python run.py
 
-      - name: Commit published_deals.json to repo
+      - name: Verify export exists
         run: |
-          # Only commit if the file exists
+          echo "Repo root contents:"
+          ls -ლა
           test -f published_deals.json
 
+      - name: Commit published_deals.json to repo
+        run: |
           mkdir -p data
           mv -f published_deals.json data/published_deals.json
 
