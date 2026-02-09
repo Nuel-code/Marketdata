@@ -16,7 +16,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          persist-credentials: true
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -34,11 +33,12 @@ jobs:
 
       - name: Verify export exists
         run: |
-          echo "Repo root contents:"
-          ls -ლა
+          ls -la
           test -f published_deals.json
 
-      - name: Commit published_deals.json to repo
+      - name: Commit feed to repo (data/published_deals.json)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mkdir -p data
           mv -f published_deals.json data/published_deals.json
@@ -48,17 +48,17 @@ jobs:
 
           git add data/published_deals.json
           git commit -m "Update published deals feed" || echo "No changes to commit"
-          git push
 
-      - name: Upload output artifacts
+          # Force authenticated remote using the workflow token
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push origin HEAD:main
+
+      - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           name: dublin-mvp-output
           path: |
-            stores_dublin.csv
-            stores_with_websites.csv
             dublin_stores.xlsx
-            promo_urls.csv
             promo_urls.xlsx
             deals.xlsx
             data/published_deals.json
