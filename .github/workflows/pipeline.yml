@@ -1,0 +1,134 @@
+name: Dublin Deals Pipeline
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 9 * * *" # daily 09:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Restore store cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            stores_dublin.csv
+            stores_with_websites.csv
+            dublin_stores.xlsx
+          key: dublin-store-cache-${{ hashFiles('src/osm_discover.py') }}
+          restore-keys: |
+            dublin-store-cache-
+
+      - name: Ensure store files exist (OSM only if needed)
+        shell: bash
+        run: |
+          set -e
+
+          if [[ -f "stores_with_websites.csv" && -f "stores_dublin.csv" ]]; then
+            echo "✅ Using cached stores (skipping Overpass)."
+            exit 0
+          fi
+
+          echo "ℹ️ Store cache missing. Running OSM discovery with retries..."
+
+          for i in 1 2 3; do
+            echo "Attempt $i/3: python src/osm_discover.py"
+            if python src/osm_discover.py; then
+              echo "✅ OSM discovery succeeded."
+              exit 0
+            fi
+            echo "⚠️ OSM discovery failed. Sleeping before retry..."
+            sleep $((i * 10))
+          done
+
+          echo "❌ OSM discovery failed after retries and no cache was available."
+          exit 1
+
+      - name: Discover promo URLs
+        run: |
+          test -f stores_with_websites.csv
+          python src/promo_discover.py
+
+      - name: Extract deals (only if extractor exists)
+        shell: bash
+        run: |
+          set -e
+          if [[ -f "src/extract_deals.py" ]]; then
+            python src/extract_deals.py
+          else
+            echo "⚠️ src/extract_deals.py not found — skipping deal extraction."
+          fi
+
+      - name: Export JSON feed (only if exporter exists)
+        shell: bash
+        run: |
+          set -e
+          if [[ -f "src/export_feed.py" ]]; then
+            python src/export_feed.py
+          else
+            echo "⚠️ src/export_feed.py not found — skipping JSON export."
+          fi
+
+      # ----------------------------
+      # PUBLISH STEP (commits feed)
+      # ----------------------------
+      - name: Publish JSON feed to repo (data/published_deals.json)
+        shell: bash
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+
+          if [[ ! -f "published_deals.json" ]]; then
+            echo "⚠️ published_deals.json not found — nothing to publish."
+            exit 0
+          fi
+
+          mkdir -p data
+          mv -f published_deals.json data/published_deals.json
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data/published_deals.json
+
+          git commit -m "Update published deals feed" || echo "No changes to commit"
+
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push origin HEAD:main
+
+      - name: Upload artifacts (always)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dublin-output
+          path: |
+            stores_dublin.csv
+            stores_with_websites.csv
+            dublin_stores.xlsx
+            promo_urls.csv
+            promo_urls.xlsx
+            deals.csv
+            deals.xlsx
+            data/published_deals.json
