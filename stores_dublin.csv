@@ -1,0 +1,515 @@
+category,name,addr,website,website_domain,maps,phone,brand,lat,lon,osm_type,osm_id
+shop=clothes,& Other Stories,Grafton Street Dublin,https://www.stories.com,stories.com,"https://www.google.com/maps/search/?api=1&query=53.3416662,-6.2600273",,& Other Stories,53.3416662,-6.2600273,node,5316314921
+shop=clothes,99b (shop name),99b Rathgar Road,,,"https://www.google.com/maps/search/?api=1&query=53.3125894,-6.2739005",,,53.3125894,-6.2739005,node,2885644006
+shop=clothes,A Store Is Born,34 Clarendon Street Dublin,https://www.astoreisborn.ie/,astoreisborn.ie,"https://www.google.com/maps/search/?api=1&query=53.3411597,-6.2622932",,,53.3411597,-6.2622932,node,12093934889
+shop=clothes,ASHA,St. Stephen's Green Dublin,https://www.stephensgreen.com/dublin-shops/asha/,stephensgreen.com,"https://www.google.com/maps/search/?api=1&query=53.3399449,-6.2614642",,,53.3399449,-6.2614642,node,677596880
+shop=clothes,Abrahams,17A Anne Street South Dublin,https://www.menswear.ie/,menswear.ie,"https://www.google.com/maps/search/?api=1&query=53.3410883,-6.258619",+353-1-6770000,,53.3410883,-6.258619,way,273206927
+shop=clothes,Active Workwear,21 Corrig Road Sandyford D18 E4CR,https://activeworkwear.ie,activeworkwear.ie,"https://www.google.com/maps/search/?api=1&query=53.2766448,-6.2146914",+353 (0)1 5170196,,53.2766448,-6.2146914,node,11920046926
+shop=clothes,Alice May Bridal,,https://www.alicemay.ie,alicemay.ie,"https://www.google.com/maps/search/?api=1&query=53.2665501,-6.1836419",+353 1 2950 006,,53.2665501,-6.1836419,node,10951811274
+shop=clothes,All Occassions Boutique,Granby Row Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3539048,-6.2663228",+353 1 8735973,,53.3539048,-6.2663228,node,3052818969
+shop=clothes,AllSaints,Coppinger Row Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.342036,-6.2618055",,AllSaints,53.342036,-6.2618055,node,9707302377
+shop=clothes,Alo,Grafton Street Dublin,https://www.aloyoga.com/en-ie/,aloyoga.com,"https://www.google.com/maps/search/?api=1&query=53.3406658,-6.2609524",,,53.3406658,-6.2609524,node,6185260271
+shop=clothes,Ammara Boutique,Clanbrassil Street Upper Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3319494,-6.2749902",,,53.3319494,-6.2749902,node,3008717075
+shop=clothes,Angelo Bridal,38 Dorset Street Lower Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3596012,-6.2611153",,,53.3596012,-6.2611153,node,1350207385
+shop=clothes,Angels,,,,"https://www.google.com/maps/search/?api=1&query=53.3420258,-6.3529266",,,53.3420258,-6.3529266,node,8521097201
+shop=clothes,Arabella's Pop-up,,,,"https://www.google.com/maps/search/?api=1&query=53.3327454,-6.2160728",,,53.3327454,-6.2160728,node,8952195602
+shop=clothes,Aran Sweater Market,115 Grafton Street,https://www.aransweatermarket.com/,aransweatermarket.com,"https://www.google.com/maps/search/?api=1&query=53.343932,-6.2593989",,,53.343932,-6.2593989,node,4808088121
+shop=clothes,Ashley Reeves,Stillorgan Village Shopping Centre,https://www.pamelascott.com/our-stores,pamelascott.com,"https://www.google.com/maps/search/?api=1&query=53.2891948,-6.2007376",+353-1-288-6276,,53.2891948,-6.2007376,node,4080241198
+shop=clothes,Asics,,,,"https://www.google.com/maps/search/?api=1&query=53.3484014,-6.2600805",,,53.3484014,-6.2600805,node,12803974881
+shop=clothes,Aston Formal Wear,Aston Place Dublin,https://astonformal.com/,astonformal.com,"https://www.google.com/maps/search/?api=1&query=53.3463902,-6.2607935",+353-1-6796100,,53.3463902,-6.2607935,node,1514294256
+shop=clothes,Astrid & Miyu,Anne Street South Dublin,https://www.astridandmiyu.com/pages/dublin-boutique,astridandmiyu.com,"https://www.google.com/maps/search/?api=1&query=53.3412507,-6.2600662",,,53.3412507,-6.2600662,node,6187146935
+shop=clothes,Awareness Ireland,Old Navan Road,,,"https://www.google.com/maps/search/?api=1&query=53.4025654,-6.39767",,,53.4025654,-6.39767,node,3233585908
+shop=clothes,B Fab,97 George's Street Lower Dún Laoghaire,,,"https://www.google.com/maps/search/?api=1&query=53.2934205,-6.1385003",,,53.2934205,-6.1385003,node,6553697764
+shop=clothes,Barbara Kosznik,93 George's Street Lower Dún Laoghaire,https://kosznik.com/,kosznik.com,"https://www.google.com/maps/search/?api=1&query=53.2932563,-6.1380136",+353-1-280-6277,,53.2932563,-6.1380136,node,6179001919
+shop=clothes,Beach Boutique,Strand Road,,,"https://www.google.com/maps/search/?api=1&query=53.4337772,-6.1247621",,,53.4337772,-6.1247621,node,937232523
+shop=clothes,Beautiful South,Castlewood Avenue,http://www.beautifulsouth.ie/,beautifulsouth.ie,"https://www.google.com/maps/search/?api=1&query=53.3227568,-6.2641408",+353-87-2574901,,53.3227568,-6.2641408,node,5083380018
+shop=clothes,Belle of the Ball,Saint Agnes Road Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.319871,-6.3152384",,,53.319871,-6.3152384,node,3078196391
+shop=clothes,Bershka,Jervis Street Dublin,https://www.bershka.com/ie/,bershka.com,"https://www.google.com/maps/search/?api=1&query=53.3484983,-6.2652725",,Bershka,53.3484983,-6.2652725,node,4711653160
+shop=clothes,Bershka,,,,"https://www.google.com/maps/search/?api=1&query=53.3528608,-6.3906339",,Bershka,53.3528608,-6.3906339,node,11030167572
+shop=clothes,Best,St. Stephen's Green Dublin,https://www.bestmenswear.com/,bestmenswear.com,"https://www.google.com/maps/search/?api=1&query=53.3396425,-6.2612425",,,53.3396425,-6.2612425,node,12650724208
+shop=clothes,Best Men's Wear,,https://www.bestmenswear.com,bestmenswear.com,"https://www.google.com/maps/search/?api=1&query=53.2866375,-6.2412765",,,53.2866375,-6.2412765,node,11940354097
+shop=clothes,Best Mens Wear,Stillorgan Village Shopping Centre,https://www.bestmenswear.ie/,bestmenswear.ie,"https://www.google.com/maps/search/?api=1&query=53.2894339,-6.20069",+353-1-212-3692,,53.2894339,-6.20069,node,4080199826
+shop=clothes,Best Mens Wear,,,,"https://www.google.com/maps/search/?api=1&query=53.3922018,-6.2472999",,,53.3922018,-6.2472999,node,10591680065
+shop=clothes,Best Menswear,,,,"https://www.google.com/maps/search/?api=1&query=53.3531522,-6.3907792",,,53.3531522,-6.3907792,node,11030231728
+shop=clothes,Betty Bojangles,Thomas Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3429249,-6.2762617",,,53.3429249,-6.2762617,node,3124989763
+shop=clothes,Blue,51 Main Street Blackrock,,,"https://www.google.com/maps/search/?api=1&query=53.3008798,-6.1764884",+353-1-210-9939,,53.3008798,-6.1764884,node,3730393524
+shop=clothes,Brendan Kidd,19 Capel Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3471522,-6.2681525",,,53.3471522,-6.2681525,way,228762038
+shop=clothes,Brown Thomas,,,,"https://www.google.com/maps/search/?api=1&query=53.2877425,-6.2428814",,,53.2877425,-6.2428814,node,11940298900
+shop=clothes,Brown Thomas,88-95 Grafton Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3423872,-6.2600951",,,53.3423872,-6.2600951,way,271690098
+shop=clothes,Bäumler,51a Dawson Street Dublin,https://www.baumlerdublin.com/,baumlerdublin.com,"https://www.google.com/maps/search/?api=1&query=53.3416788,-6.2584773",,,53.3416788,-6.2584773,way,268844931
+shop=clothes,COS,Wicklow Street Dublin,https://www.cosstores.com/ie/,cosstores.com,"https://www.google.com/maps/search/?api=1&query=53.3428771,-6.2604359",,COS,53.3428771,-6.2604359,node,2826503844
+shop=clothes,Camden Clothing,29 Camden Street Lower Dublin,https://camdenclothing.ie/,camdenclothing.ie,"https://www.google.com/maps/search/?api=1&query=53.3347637,-6.2649703",+353 1 4175961,,53.3347637,-6.2649703,node,2995007513
+shop=clothes,Canada Goose,64 Grafton Street Dublin,https://www.canadagoose.com/ie/en/dublin-store.html,canadagoose.com,"https://www.google.com/maps/search/?api=1&query=53.340848,-6.2608691",,Canada Goose,53.340848,-6.2608691,way,249213113
+shop=clothes,Capel Street Clothing,11 Capel Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3467788,-6.2678965",,,53.3467788,-6.2678965,way,228762031
+shop=clothes,Carhartt Work in Progress,Exchequer Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3429265,-6.2631263",,Carhartt Work in Progress,53.3429265,-6.2631263,node,12087084510
+shop=clothes,Carl Gross,46 Dawson Street,,,"https://www.google.com/maps/search/?api=1&query=53.3411245,-6.25854",+353-1-6336806,,53.3411245,-6.25854,way,268844928
+shop=clothes,Carraig Donn,,,,"https://www.google.com/maps/search/?api=1&query=53.3920855,-6.247401",,,53.3920855,-6.247401,node,10591640485
+shop=clothes,Cassini Boutique,,,,"https://www.google.com/maps/search/?api=1&query=53.2663018,-6.1834208",,,53.2663018,-6.1834208,node,10951811286
+shop=clothes,Castore,34 Grafton Street Dublin,https://castore.com/,castore.com,"https://www.google.com/maps/search/?api=1&query=53.3411318,-6.2603971",,,53.3411318,-6.2603971,node,4551064993
+shop=clothes,Cath Kidston,Grafton Street Dublin,https://www.next.co.uk/cath-kidston,next.co.uk,"https://www.google.com/maps/search/?api=1&query=53.3431393,-6.259568",,,53.3431393,-6.259568,node,2826497092
+shop=clothes,Champion JD,Jervis Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3478995,-6.2658912",,,53.3478995,-6.2658912,node,6073221045
+shop=clothes,Choice,Old Dublin Road,https://www.choiceboutique.com/,choiceboutique.com,"https://www.google.com/maps/search/?api=1&query=53.2895402,-6.2009722",+353 1 2888 367,,53.2895402,-6.2009722,node,9893613891
+shop=clothes,Choice,,,,"https://www.google.com/maps/search/?api=1&query=53.2872701,-6.1234771",,,53.2872701,-6.1234771,node,11522545325
+shop=clothes,Clothes Peg,Howth Road,,,"https://www.google.com/maps/search/?api=1&query=53.3894223,-6.1092068",,,53.3894223,-6.1092068,node,6649584879
+shop=clothes,Cobbler's Wardrobe,,,,"https://www.google.com/maps/search/?api=1&query=53.332157,-6.2148258",,,53.332157,-6.2148258,node,8853942744
+shop=clothes,Coco Boutique,40 Clarendon Street Dublin,https://www.cocoboutique.ie/,cocoboutique.ie,"https://www.google.com/maps/search/?api=1&query=53.3414483,-6.2619972",,,53.3414483,-6.2619972,node,12093934894
+shop=clothes,Coins and Ties,,,,"https://www.google.com/maps/search/?api=1&query=53.3010871,-6.1781261",,,53.3010871,-6.1781261,node,3740250982
+shop=clothes,Columbia,Trinity Street Dublin,https://www.columbiasportswear.ie/,columbiasportswear.ie,"https://www.google.com/maps/search/?api=1&query=53.3437852,-6.2619448",,Columbia,53.3437852,-6.2619448,node,2988253830
+shop=clothes,Contour,Stillorgan Village Shopping Centre,,,"https://www.google.com/maps/search/?api=1&query=53.2892742,-6.2007913",,,53.2892742,-6.2007913,node,4080234180
+shop=clothes,Costume,Castle Market Dublin,https://costumedublin.ie/,costumedublin.ie,"https://www.google.com/maps/search/?api=1&query=53.3423555,-6.2631456",,,53.3423555,-6.2631456,node,6984776456
+shop=clothes,Cyan,Rathmines Road Lower Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3232108,-6.2646034",,,53.3232108,-6.2646034,node,2982955167
+shop=clothes,DD-2,4 Old Dublin Road Stillorgan,,,"https://www.google.com/maps/search/?api=1&query=53.2908698,-6.2005008",+353-1-210-0017,,53.2908698,-6.2005008,node,5699985829
+shop=clothes,Dance World,163 Parnell Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3529459,-6.2610407",,,53.3529459,-6.2610407,way,252812512
+shop=clothes,Dance World,16 Sandford Road Dublin,https://www.danceworld.ie/,danceworld.ie,"https://www.google.com/maps/search/?api=1&query=53.3232912,-6.2495351",,,53.3232912,-6.2495351,way,615180148
+shop=clothes,Dashiki,8 Rock Hill Blackrock,,,"https://www.google.com/maps/search/?api=1&query=53.3019396,-6.1785949",,,53.3019396,-6.1785949,node,3986683799
+shop=clothes,Dawson Boutique,Essex Street West Dublin D08 XW20,https://www.dawsonboutique.com/,dawsonboutique.com,"https://www.google.com/maps/search/?api=1&query=53.3444622,-6.2696587",,,53.3444622,-6.2696587,node,3384530243
+shop=clothes,De La Punc,William Street South Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3415178,-6.2628372",,,53.3415178,-6.2628372,node,12109840006
+shop=clothes,De Stafford Bridal,Wicklow Street Dublin,https://www.destaffordbridal.ie/,destaffordbridal.ie,"https://www.google.com/maps/search/?api=1&query=53.3429211,-6.2615238",,,53.3429211,-6.2615238,node,12093934870
+shop=clothes,Derek Byrne,7 Fields Terrace,,,"https://www.google.com/maps/search/?api=1&query=53.3251445,-6.2555443",,,53.3251445,-6.2555443,node,6372537850
+shop=clothes,Designer Vintage,,,,"https://www.google.com/maps/search/?api=1&query=53.3010089,-6.1782657",,,53.3010089,-6.1782657,node,3740254862
+shop=clothes,Diesel,Jervis Street Dublin,https://diesel.ie/,diesel.ie,"https://www.google.com/maps/search/?api=1&query=53.3484295,-6.266053",,Diesel,53.3484295,-6.266053,node,4711653164
+shop=clothes,Diesel,,,,"https://www.google.com/maps/search/?api=1&query=53.3532002,-6.3899997",,Diesel,53.3532002,-6.3899997,node,5556458524
+shop=clothes,Diesel,Grafton Street Dublin,https://diesel.ie/,diesel.ie,"https://www.google.com/maps/search/?api=1&query=53.3415738,-6.2603653",,Diesel,53.3415738,-6.2603653,node,6772160807
+shop=clothes,Diesel,,,,"https://www.google.com/maps/search/?api=1&query=53.2863212,-6.3717455",,Diesel,53.2863212,-6.3717455,node,9205674943
+shop=clothes,Diesel,38 Henry Street Dublin,https://diesel.ie/,diesel.ie,"https://www.google.com/maps/search/?api=1&query=53.3497185,-6.2615232",+353-1-8747132,Diesel,53.3497185,-6.2615232,way,435840489
+shop=clothes,Diffney,,https://www.diffney.ie/,diffney.ie,"https://www.google.com/maps/search/?api=1&query=53.3020069,-6.179949",+353-1-288-7322,,53.3020069,-6.179949,node,4937329781
+shop=clothes,Diffneys,Old Dublin Road,https://www.diffney.ie/,diffney.ie,"https://www.google.com/maps/search/?api=1&query=53.2897702,-6.2002",+353 1 2887 619,,53.2897702,-6.2002,node,3750529740
+shop=clothes,Dimensions Dancewear (Moved),124 Drumcondra Road Upper,https://dimensionsdance.ie/,dimensionsdance.ie,"https://www.google.com/maps/search/?api=1&query=53.3728515,-6.2520893",,,53.3728515,-6.2520893,way,679252911
+shop=clothes,Dorothy Perkins,,,,"https://www.google.com/maps/search/?api=1&query=53.35368,-6.3894213",,Dorothy Perkins,53.35368,-6.3894213,node,5556458525
+shop=clothes,Dress Circle,134 Terenure Road North Dublin,https://dresscircleterenure.wordpress.com/,dresscircleterenure.wordpress.com,"https://www.google.com/maps/search/?api=1&query=53.3101204,-6.2836055",,,53.3101204,-6.2836055,node,3106286539
+shop=clothes,Dresscode Ltd,50 Finglas Business Centre Dublin,https://www.dresscode.ie/,dresscode.ie,"https://www.google.com/maps/search/?api=1&query=53.3973909,-6.2949428",+353 1 8640700,,53.3973909,-6.2949428,node,3069695516
+shop=clothes,Drobey,1 Richmond Green,https://drobey.ie/,drobey.ie,"https://www.google.com/maps/search/?api=1&query=53.2932369,-6.1538325",,,53.2932369,-6.1538325,way,58647409
+shop=clothes,Du Pareil au Même,Kilmacud Road Lower,https://www.dpam.ie/,dpam.ie,"https://www.google.com/maps/search/?api=1&query=53.2894018,-6.2006552",+353-1-210-1713,Du Pareil au Même,53.2894018,-6.2006552,node,4080207917
+shop=clothes,Dublin Formal Wear,Main Street Tallaght,https://dublinformalwear.ie/,dublinformalwear.ie,"https://www.google.com/maps/search/?api=1&query=53.2880261,-6.3576961",,,53.2880261,-6.3576961,node,9230443425
+shop=clothes,Dublin Gear Company LTD,,,,"https://www.google.com/maps/search/?api=1&query=53.3957255,-6.2494935",,,53.3957255,-6.2494935,node,4369937899
+shop=clothes,Dublin Vintage Factory,Wellington Quay Dublin,https://www.dublinvintagefactory.com/,dublinvintagefactory.com,"https://www.google.com/maps/search/?api=1&query=53.3457552,-6.2642205",,,53.3457552,-6.2642205,node,6112928287
+shop=clothes,Dunnes Stores,Cromwellsfort Road Dublin,https://www.dunnesstores.com/,dunnesstores.com,"https://www.google.com/maps/search/?api=1&query=53.3158817,-6.3180328",,Dunnes Stores,53.3158817,-6.3180328,node,4913827541
+shop=clothes,Eclipse Clothing,,,,"https://www.google.com/maps/search/?api=1&query=53.33254,-6.2158483",,,53.33254,-6.2158483,node,8952327738
+shop=clothes,Electra,12 Donnybrook Road Dublin,https://www.electra.ie/,electra.ie,"https://www.google.com/maps/search/?api=1&query=53.322328,-6.2368634",+353-1-538-1230,,53.322328,-6.2368634,node,4553095332
+shop=clothes,Eliott Chambers,Taney Drive Dundrum,,,"https://www.google.com/maps/search/?api=1&query=53.292299,-6.2448174",,,53.292299,-6.2448174,node,4265973304
+shop=clothes,Ellen B Boutique,,,,"https://www.google.com/maps/search/?api=1&query=53.3669964,-6.1733584",,,53.3669964,-6.1733584,way,1026201415
+shop=clothes,Emme,36 Dunville Avenue Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.321174,-6.2568022",,,53.321174,-6.2568022,node,4368872130
+shop=clothes,Fairbrother's,188,,,"https://www.google.com/maps/search/?api=1&query=53.3284737,-6.3055447",,,53.3284737,-6.3055447,node,4485360895
+shop=clothes,Fatface,Sandyford Road,https://www.fatface.com/,fatface.com,"https://www.google.com/maps/search/?api=1&query=53.2866594,-6.2411569",+353 1 2451 099,,53.2866594,-6.2411569,node,11940065872
+shop=clothes,Favorite,,,,"https://www.google.com/maps/search/?api=1&query=53.3416088,-6.2785791",,,53.3416088,-6.2785791,node,12176869746
+shop=clothes,Feather & Frill,130 Terenure Road North Dublin,https://www.featherandfrill.com/,featherandfrill.com,"https://www.google.com/maps/search/?api=1&query=53.3102421,-6.283556",+353 1 4906857,,53.3102421,-6.283556,node,3106278308
+shop=clothes,Ferraud,24 Duke Street,https://www.ferauddublin.com/,ferauddublin.com,"https://www.google.com/maps/search/?api=1&query=53.3418642,-6.2596157",,,53.3418642,-6.2596157,way,249264644
+shop=clothes,Fitzgerald Private Clinic,3 Anne's Lane Dublin,https://www.fitzgeraldprivateclinic.com/,fitzgeraldprivateclinic.com,"https://www.google.com/maps/search/?api=1&query=53.34077,-6.2596746",,,53.34077,-6.2596746,node,12059966683
+shop=clothes,Florence Lingerie,97 Patrick Street Dún Laoghaire,https://www.florencelingerie.com/,florencelingerie.com,"https://www.google.com/maps/search/?api=1&query=53.2915076,-6.1370841",+353-1-280-8641,,53.2915076,-6.1370841,node,6184660683
+shop=clothes,Fran & Jane,,https://franandjane.com/,franandjane.com,"https://www.google.com/maps/search/?api=1&query=53.3019746,-6.1780741",,,53.3019746,-6.1780741,node,3740256303
+shop=clothes,Francis Cambelli,William Street South Dublin,https://franciscampelli.com/,franciscampelli.com,"https://www.google.com/maps/search/?api=1&query=53.3413628,-6.2629333",,,53.3413628,-6.2629333,node,12109840003
+shop=clothes,Fresh,,,,"https://www.google.com/maps/search/?api=1&query=53.3450599,-6.2626536",,,53.3450599,-6.2626536,node,12926138459
+shop=clothes,Fresh Cuts,13 Castle Market Dublin D02 XH05,https://www.freshcutsclothing.com/,freshcutsclothing.com,"https://www.google.com/maps/search/?api=1&query=53.3421421,-6.2635987",,,53.3421421,-6.2635987,node,12087084514
+shop=clothes,Frewen & Aylward,44 George's Street Lower Dún Laoghaire A96 TV21,https://www.frewenmenswear.ie/,frewenmenswear.ie,"https://www.google.com/maps/search/?api=1&query=53.2932342,-6.1384848",+353-1-280-3127,,53.2932342,-6.1384848,node,6178626787
+shop=clothes,Frocks & Frills,,,,"https://www.google.com/maps/search/?api=1&query=53.2033643,-6.1097325",,,53.2033643,-6.1097325,node,13418385149
+shop=clothes,GANT,,,,"https://www.google.com/maps/search/?api=1&query=53.2874925,-6.2422852",,GANT,53.2874925,-6.2422852,node,11940298910
+shop=clothes,Genius,Clarendon Street Dublin,https://www.genius.ie/,genius.ie,"https://www.google.com/maps/search/?api=1&query=53.3422373,-6.2613112",,,53.3422373,-6.2613112,node,12093934879
+shop=clothes,Get Cash 4 Clothes!,,https://www.getcash.ie/,getcash.ie,"https://www.google.com/maps/search/?api=1&query=53.2608382,-6.1500744",,,53.2608382,-6.1500744,node,4256571992
+shop=clothes,Get Outdoors,,https://www.malahideoutdoor.com,malahideoutdoor.com,"https://www.google.com/maps/search/?api=1&query=53.4449294,-6.1630015",+353 1 8457 236,,53.4449294,-6.1630015,node,12097071868
+shop=clothes,Gilmour Sports,,,,"https://www.google.com/maps/search/?api=1&query=53.256801,-6.1937442",,,53.256801,-6.1937442,node,1960851171
+shop=clothes,Giraffee-kids,,,,"https://www.google.com/maps/search/?api=1&query=53.324257,-6.3962066",,,53.324257,-6.3962066,node,12636352957
+shop=clothes,Grants,7-8 Manor Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3517158,-6.2830169",,,53.3517158,-6.2830169,node,2940723779
+shop=clothes,Gym + Coffee,,,,"https://www.google.com/maps/search/?api=1&query=53.3532855,-6.3900857",,,53.3532855,-6.3900857,node,11030249309
+shop=clothes,H&M,,,,"https://www.google.com/maps/search/?api=1&query=53.3507699,-6.26431",,H&M,53.3507699,-6.26431,node,4711673730
+shop=clothes,H&M,Mary Street Dublin,https://www2.hm.com/,www2.hm.com,"https://www.google.com/maps/search/?api=1&query=53.3491439,-6.2649686",,H&M,53.3491439,-6.2649686,node,5377095225
+shop=clothes,H&M,,,,"https://www.google.com/maps/search/?api=1&query=53.3531569,-6.3900694",,H&M,53.3531569,-6.3900694,node,5556501722
+shop=clothes,H&M,,,,"https://www.google.com/maps/search/?api=1&query=53.2859829,-6.3716408",,H&M,53.2859829,-6.3716408,node,9205674941
+shop=clothes,H&M,,https://www2.hm.com/en_ie/index.html,www2.hm.com,"https://www.google.com/maps/search/?api=1&query=53.286775,-6.2414338",,H&M,53.286775,-6.2414338,node,11940354094
+shop=clothes,H&M,23-27 College Green Dublin,https://www2.hm.com/,www2.hm.com,"https://www.google.com/maps/search/?api=1&query=53.3440086,-6.2611598",,H&M,53.3440086,-6.2611598,way,251580559
+shop=clothes,H&M,18-27 O'Connell Street Lower Dublin D01H6K0,https://www2.hm.com/en_ie/index.html,www2.hm.com,"https://www.google.com/maps/search/?api=1&query=53.3492526,-6.2595642",,H&M,53.3492526,-6.2595642,way,1222688188
+shop=clothes,Happy Days Fashion Retail,,,,"https://www.google.com/maps/search/?api=1&query=53.2742809,-6.193808",,,53.2742809,-6.193808,node,6749206541
+shop=clothes,Harlequin,Castle Market Dublin,https://theharlequin.ie/,theharlequin.ie,"https://www.google.com/maps/search/?api=1&query=53.3423202,-6.262992",,,53.3423202,-6.262992,node,5506775255
+shop=clothes,Harvey Nichols,Sandyford Road Dundrum D16 W0C0,https://www.harveynichols.com,harveynichols.com,"https://www.google.com/maps/search/?api=1&query=53.2881475,-6.2436025",,,53.2881475,-6.2436025,node,5661461552
+shop=clothes,Hat Society,Taney Drive Dundrum,http://www.hatsociety.ie/,hatsociety.ie,"https://www.google.com/maps/search/?api=1&query=53.2924024,-6.2449321",+353 86 2643899,,53.2924024,-6.2449321,node,4265973305
+shop=clothes,Havana,Donnybrook Road Donnybrook,https://www.havanaboutique.ie/,havanaboutique.ie,"https://www.google.com/maps/search/?api=1&query=53.3209564,-6.2349154",,,53.3209564,-6.2349154,node,5476926559
+shop=clothes,Hobbs,,,,"https://www.google.com/maps/search/?api=1&query=53.3533851,-6.3896788",,,53.3533851,-6.3896788,node,5556517721
+shop=clothes,Hobbs London,,,,"https://www.google.com/maps/search/?api=1&query=53.2877496,-6.2425508",,,53.2877496,-6.2425508,node,11940298901
+shop=clothes,House of Wool,Dublin,https://houseofwoolireland.com/,houseofwoolireland.com,"https://www.google.com/maps/search/?api=1&query=53.3396508,-6.2589053",+353 86 252 8800,,53.3396508,-6.2589053,node,9534229626
+shop=clothes,Hugo Boss,68 Grafton Street Dublin,https://www.hugoboss.com/ie/storedetail?storeid=9927208,hugoboss.com,"https://www.google.com/maps/search/?api=1&query=53.3409779,-6.2607632",,Hugo Boss,53.3409779,-6.2607632,node,6187145168
+shop=clothes,Hugo Boss,,,,"https://www.google.com/maps/search/?api=1&query=53.286737,-6.2418909",,Hugo Boss,53.286737,-6.2418909,node,11940354093
+shop=clothes,Human Collective Clothing,Dublin,https://wearehumancollective.com/,wearehumancollective.com,"https://www.google.com/maps/search/?api=1&query=53.3401242,-6.2617849",,,53.3401242,-6.2617849,node,11634194876
+shop=clothes,Inco Boutique,Old Dublin Road,https://inco-boutique.com/,inco-boutique.com,"https://www.google.com/maps/search/?api=1&query=53.28982,-6.200016",+353-1-558-7120,,53.28982,-6.200016,node,9893524174
+shop=clothes,Indigo & Cloth Menswear,Essex Street East Dublin,https://indigoandcloth.com/,indigoandcloth.com,"https://www.google.com/maps/search/?api=1&query=53.3451653,-6.2664225",,,53.3451653,-6.2664225,node,4494346690
+shop=clothes,Jacadi,32 King Street South Dublin,https://www.jacadiireland.ie/,jacadiireland.ie,"https://www.google.com/maps/search/?api=1&query=53.3406078,-6.2630173",,Jacadi,53.3406078,-6.2630173,way,230357690
+shop=clothes,Jack & Jones,,,,"https://www.google.com/maps/search/?api=1&query=53.3533265,-6.3900359",,Jack & Jones,53.3533265,-6.3900359,node,5556517421
+shop=clothes,Jack & Jones,,,,"https://www.google.com/maps/search/?api=1&query=53.2863372,-6.3710964",,Jack & Jones,53.2863372,-6.3710964,node,9205674944
+shop=clothes,Jack & Jones,A96 R268,https://www.jackjones.com/,jackjones.com,"https://www.google.com/maps/search/?api=1&query=53.2929807,-6.1392785",+353-1-230-0907,Jack & Jones,53.2929807,-6.1392785,node,9407869225
+shop=clothes,Jack Jones,,,,"https://www.google.com/maps/search/?api=1&query=53.3922215,-6.2476768",,,53.3922215,-6.2476768,node,10591680064
+shop=clothes,Jack Wills,Dublin,https://www.jackwills.com/dublinjw-store-2264,jackwills.com,"https://www.google.com/maps/search/?api=1&query=53.3412401,-6.261265",,Jack Wills,53.3412401,-6.261265,node,366363183
+shop=clothes,James Herren,44 Dawson Street Dublin,https://www.jamesherren.com/,jamesherren.com,"https://www.google.com/maps/search/?api=1&query=53.3409326,-6.2585904",,,53.3409326,-6.2585904,way,268836000
+shop=clothes,Jay Jay,13 Main Street,,,"https://www.google.com/maps/search/?api=1&query=53.3584733,-6.4489923",,,53.3584733,-6.4489923,node,13059351422
+shop=clothes,Jigsaw,,,,"https://www.google.com/maps/search/?api=1&query=53.3411101,-6.2602853",,,53.3411101,-6.2602853,node,11634194877
+shop=clothes,Jim Markey's Mans Shop,144 Drumcondra Road Lower Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3673708,-6.2559701",+353 1 837 1168,,53.3673708,-6.2559701,way,681196390
+shop=clothes,JoJo Maman Bébé,14 Wicklow Street Dublin D02 WV97,https://www.jojomamanbebe.co.uk/storelocator/dublin-jojomamanbebe/0944,jojomamanbebe.co.uk,"https://www.google.com/maps/search/?api=1&query=53.3430312,-6.2609281",,,53.3430312,-6.2609281,node,12093934865
+shop=clothes,John Lawrence,,,,"https://www.google.com/maps/search/?api=1&query=53.3426922,-6.2783236",,,53.3426922,-6.2783236,node,1473487757
+shop=clothes,Just Kidz,Meath Street,,,"https://www.google.com/maps/search/?api=1&query=53.3411332,-6.2786344",,,53.3411332,-6.2786344,node,9217363930
+shop=clothes,Kate's Atelier,,,,"https://www.google.com/maps/search/?api=1&query=53.3626924,-6.2731375",,,53.3626924,-6.2731375,node,10692974811
+shop=clothes,Khan,,https://khan.ie/,khan.ie,"https://www.google.com/maps/search/?api=1&query=53.302215,-6.1786762",+353-1-278-1646,,53.302215,-6.1786762,node,996066798
+shop=clothes,L.K. Bennett,,,,"https://www.google.com/maps/search/?api=1&query=53.2877989,-6.2432325",,,53.2877989,-6.2432325,node,11940271273
+shop=clothes,Lady Jeans,Fassaugh Road Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3648324,-6.2867293",,,53.3648324,-6.2867293,way,966043232
+shop=clothes,Last One,,,,"https://www.google.com/maps/search/?api=1&query=53.2870799,-6.1234515",,,53.2870799,-6.1234515,node,11522535777
+shop=clothes,Leia Clothing,Ballyfermot Road Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3424298,-6.3511221",,,53.3424298,-6.3511221,node,5862047878
+shop=clothes,Leia Clothing,,,,"https://www.google.com/maps/search/?api=1&query=53.3418319,-6.2786795",,,53.3418319,-6.2786795,node,12176926488
+shop=clothes,Levi's,Henry Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.34963,-6.262235",,Levi's,53.34963,-6.262235,node,10079508011
+shop=clothes,Levi's,,,,"https://www.google.com/maps/search/?api=1&query=53.3534098,-6.3898776",,Levi's,53.3534098,-6.3898776,node,11030249308
+shop=clothes,Levi's,38 Grafton Street Dublin,https://www.levi.com/,levi.com,"https://www.google.com/maps/search/?api=1&query=53.3408686,-6.2603647",,Levi's,53.3408686,-6.2603647,way,249212461
+shop=clothes,Libaas,Clanbrassil Street Upper Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3307552,-6.2750464",+353 1 4736750,,53.3307552,-6.2750464,node,3008616869
+shop=clothes,Lipstick,Stillorgan Village Shopping Centre,http://www.choiceboutique.ie/,choiceboutique.ie,"https://www.google.com/maps/search/?api=1&query=53.289396,-6.2008892",+353-1-288-8367,,53.289396,-6.2008892,node,4080234181
+shop=clothes,Lipstick,,,,"https://www.google.com/maps/search/?api=1&query=53.315917,-6.3177661",,,53.315917,-6.3177661,node,11724881362
+shop=clothes,Lisa Perkins,,,,"https://www.google.com/maps/search/?api=1&query=53.3018013,-6.1801315",,,53.3018013,-6.1801315,node,4860415169
+shop=clothes,Louis Copeland,,,,"https://www.google.com/maps/search/?api=1&query=53.28762,-6.2424188",,,53.28762,-6.2424188,node,11940298905
+shop=clothes,Louis Copeland and Sons,Capel Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3482587,-6.2685679",,Louis Copeland and Sons,53.3482587,-6.2685679,node,2424297241
+shop=clothes,Louis Vuitton,Dublin,https://eu.louisvuitton.com/eng-e1/point-of-sale/ireland/louis-vuitton-dublin-brown-thomas,eu.louisvuitton.com,"https://www.google.com/maps/search/?api=1&query=53.3427436,-6.2606176",,Louis Vuitton,53.3427436,-6.2606176,node,12655529054
+shop=clothes,Love Lucy,,,,"https://www.google.com/maps/search/?api=1&query=53.3919423,-6.2482586",,,53.3919423,-6.2482586,node,10591629993
+shop=clothes,Love Suits,Old Bawn Shopping Centre,https://www.lovesuits.ie/,lovesuits.ie,"https://www.google.com/maps/search/?api=1&query=53.2755301,-6.3529065",,,53.2755301,-6.3529065,node,6052005938
+shop=clothes,Lucy's Lounge,Fownes Street Upper Dublin,https://www.etsy.com/uk/shop/LucysLoungeShop,etsy.com,"https://www.google.com/maps/search/?api=1&query=53.3451866,-6.2632796",,,53.3451866,-6.2632796,node,6112928289
+shop=clothes,Lumi by Paris,Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3401684,-6.2620282",,,53.3401684,-6.2620282,node,12650724207
+shop=clothes,Lynch's,130 Philipsburgh Avenue Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3682996,-6.239225",,,53.3682996,-6.239225,way,359845088
+shop=clothes,Ma Vie,Talbot Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3501283,-6.2578843",,,53.3501283,-6.2578843,node,12947376748
+shop=clothes,Madigan,Westbury Mall Dublin,https://madigancashmere.com/,madigancashmere.com,"https://www.google.com/maps/search/?api=1&query=53.3415441,-6.2612375",,,53.3415441,-6.2612375,node,10199983670
+shop=clothes,Madison & Co.,,,,"https://www.google.com/maps/search/?api=1&query=53.2872084,-6.1229632",,,53.2872084,-6.1229632,way,420530490
+shop=clothes,Maggie & Me,13 Main Street,,,"https://www.google.com/maps/search/?api=1&query=53.3851329,-6.0651826",+353-1-8394305,,53.3851329,-6.0651826,node,6657477719
+shop=clothes,Maguire's Outlet,Ballymun Road,https://maguiresoutlet.com/,maguiresoutlet.com,"https://www.google.com/maps/search/?api=1&query=53.4004015,-6.2644045",,,53.4004015,-6.2644045,node,6253063823
+shop=clothes,Malahide Castle Visitor Centre,,,,"https://www.google.com/maps/search/?api=1&query=53.4448811,-6.1630088",,,53.4448811,-6.1630088,way,1337325526
+shop=clothes,Mango,Henry Street Dublin,https://shop.mango.com/,shop.mango.com,"https://www.google.com/maps/search/?api=1&query=53.3495563,-6.2626306",,Mango,53.3495563,-6.2626306,node,10079508015
+shop=clothes,Marian Gale,12 Main Street Dublin,https://www.mariangale.ie/,mariangale.ie,"https://www.google.com/maps/search/?api=1&query=53.3222269,-6.2376037",,,53.3222269,-6.2376037,node,5167945449
+shop=clothes,Massimo,45 Dawson Street Dublin,https://www.massimodutti.com/ie/,massimodutti.com,"https://www.google.com/maps/search/?api=1&query=53.341068,-6.2585325",,,53.341068,-6.2585325,node,3133935920
+shop=clothes,Massimo Dutti,65 Grafton Street Dublin,https://www.massimodutti.com/ie/,massimodutti.com,"https://www.google.com/maps/search/?api=1&query=53.340922,-6.2608001",,Massimo Dutti,53.340922,-6.2608001,node,6187145167
+shop=clothes,Massimo Dutti,,https://massimodutti.com,massimodutti.com,"https://www.google.com/maps/search/?api=1&query=53.2870249,-6.241774",,Massimo Dutti,53.2870249,-6.241774,node,11940354089
+shop=clothes,Mezina,Drumcondra Road Lower,,,"https://www.google.com/maps/search/?api=1&query=53.3679461,-6.2551276",,,53.3679461,-6.2551276,node,1350207395
+shop=clothes,Middle Drawer,Talbot Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3503128,-6.2564951",,,53.3503128,-6.2564951,node,12950339066
+shop=clothes,Mint Velvet,,,,"https://www.google.com/maps/search/?api=1&query=53.2876822,-6.2424769",,,53.2876822,-6.2424769,node,11940298904
+shop=clothes,Miss E,,,,"https://www.google.com/maps/search/?api=1&query=53.2870785,-6.122509",,,53.2870785,-6.122509,node,4234213478
+shop=clothes,Monaghans Cashmere,Royal Hibernian Way Dublin,https://monaghanscashmere.ie/,monaghanscashmere.ie,"https://www.google.com/maps/search/?api=1&query=53.3415214,-6.2588202",+353-1-6794451,,53.3415214,-6.2588202,node,5113669732
+shop=clothes,Monica Peters,10 Rock Hill Blackrock A94 VP03,https://www.monicapeters.ie/,monicapeters.ie,"https://www.google.com/maps/search/?api=1&query=53.3019691,-6.1786733",+353-1-288-8902,,53.3019691,-6.1786733,node,3986683802
+shop=clothes,NAME IT,,,,"https://www.google.com/maps/search/?api=1&query=53.2868859,-6.3711778",,NAME IT,53.2868859,-6.3711778,node,9281625776
+shop=clothes,NAME IT,A96 YY29,https://www.nameit.com/ie/en/home,nameit.com,"https://www.google.com/maps/search/?api=1&query=53.2929122,-6.1391145",+353-1-663-8687,NAME IT,53.2929122,-6.1391145,node,9407869224
+shop=clothes,NCBI Charity Shop,,,,"https://www.google.com/maps/search/?api=1&query=53.3420706,-6.3566936",,,53.3420706,-6.3566936,node,8521097192
+shop=clothes,New Look,Jervis Street Dublin,https://www.newlook.com/row/store/Dublin-Jervis-Dublin-IE-2061,newlook.com,"https://www.google.com/maps/search/?api=1&query=53.3485896,-6.2656882",,New Look,53.3485896,-6.2656882,node,4711653158
+shop=clothes,New Look,,,,"https://www.google.com/maps/search/?api=1&query=53.2859301,-6.3716188",,New Look,53.2859301,-6.3716188,node,9359103754
+shop=clothes,New Look,,,,"https://www.google.com/maps/search/?api=1&query=53.3920571,-6.2466587",,New Look,53.3920571,-6.2466587,node,10591646601
+shop=clothes,New Look,,,,"https://www.google.com/maps/search/?api=1&query=53.3904263,-6.3860892",,New Look,53.3904263,-6.3860892,way,689670812
+shop=clothes,Next,Jervis Street Dublin,https://www.next.ie/,next.ie,"https://www.google.com/maps/search/?api=1&query=53.3479219,-6.2655514",,Next,53.3479219,-6.2655514,node,4711653163
+shop=clothes,Next,,https://www.next.ie/,next.ie,"https://www.google.com/maps/search/?api=1&query=53.3018009,-6.1802749",+353-1-288-4203,Next,53.3018009,-6.1802749,node,4937329773
+shop=clothes,Next,,,,"https://www.google.com/maps/search/?api=1&query=53.28707,-6.2426258",,Next,53.28707,-6.2426258,node,11940310621
+shop=clothes,Next,,https://www.nextdirect.com/ie,nextdirect.com,"https://www.google.com/maps/search/?api=1&query=53.3896153,-6.3880185",,Next,53.3896153,-6.3880185,way,120720458
+shop=clothes,Nike,,,,"https://www.google.com/maps/search/?api=1&query=53.2868647,-6.2419997",,Nike,53.2868647,-6.2419997,node,11940354091
+shop=clothes,Nine Crows,Cecilia Street Dublin,https://www.shopninecrows.com/pages/our-temple-bar-shop,shopninecrows.com,"https://www.google.com/maps/search/?api=1&query=53.3449425,-6.2639096",,,53.3449425,-6.2639096,node,6112928290
+shop=clothes,No. 38,38 Dunville Avenue Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3211684,-6.2568592",,,53.3211684,-6.2568592,node,4368872131
+shop=clothes,Noel Reid,Dundrum,https://www.noelreid.ie/,noelreid.ie,"https://www.google.com/maps/search/?api=1&query=53.290743,-6.2459605",+353 1 298 3377,,53.290743,-6.2459605,node,5531473214
+shop=clothes,OND O'Neil of Dublin,"Music Hall, Copper Alley, Temple Bar Dublin D08 PFK4",https://oneilofdublin.com,oneilofdublin.com,"https://www.google.com/maps/search/?api=1&query=53.3442462,-6.2689809",+353 1 671 4598,,53.3442462,-6.2689809,node,9516242576
+shop=clothes,Oliver Bonas,,,,"https://www.google.com/maps/search/?api=1&query=53.3429516,-6.2627971",,,53.3429516,-6.2627971,node,13243783758
+shop=clothes,Om Diva,27 George's Street Arcade Dublin,https://www.omdivaboutique.com/,omdivaboutique.com,"https://www.google.com/maps/search/?api=1&query=53.342385,-6.2634351",,,53.342385,-6.2634351,node,12087084516
+shop=clothes,OneOhNine,109 Main Street Bray,,,"https://www.google.com/maps/search/?api=1&query=53.204269,-6.1095941",,,53.204269,-6.1095941,way,1008765549
+shop=clothes,Outlet Store by Frewen,50 George's Street Lower Dún Laoghaire,,,"https://www.google.com/maps/search/?api=1&query=53.2930753,-6.1381067",+353-1-912-0090,,53.2930753,-6.1381067,node,10080798164
+shop=clothes,Paco,,,,"https://www.google.com/maps/search/?api=1&query=53.3921467,-6.2483881",,,53.3921467,-6.2483881,node,10591640756
+shop=clothes,Parkwest Workwear Centre HCHS Ltd.,"Unit 8 Canal Walk, Park West Business Park Dublin D12 N5K3",https://hchs.ie/,hchs.ie,"https://www.google.com/maps/search/?api=1&query=53.3314022,-6.3613283",+353 1 612 0650,,53.3314022,-6.3613283,node,10063099697
+shop=clothes,Pat O'Farrell Schoolwear,Swords Road,,,"https://www.google.com/maps/search/?api=1&query=53.4423972,-6.2271544",+353 1 846 3512,,53.4423972,-6.2271544,node,929250557
+shop=clothes,Patagonia,24-26 Exchequer Street Dublin,https://eu.patagonia.com/ie/en/stores/ie/dublin/24-26-exchequer-street/store_dublin.html,eu.patagonia.com,"https://www.google.com/maps/search/?api=1&query=53.3429673,-6.2626881",+353-1-670-5748,Patagonia,53.3429673,-6.2626881,node,3588227041
+shop=clothes,Patrick Sheary,33 Clarendon Street Dublin,https://patricksheary.ie/,patricksheary.ie,"https://www.google.com/maps/search/?api=1&query=53.341117,-6.2623301",,,53.341117,-6.2623301,node,12093934888
+shop=clothes,Peaches & Cream,30A-32A King Street South Dublin,https://www.peachesandcream.ie/,peachesandcream.ie,"https://www.google.com/maps/search/?api=1&query=53.3406461,-6.2631996",,,53.3406461,-6.2631996,node,11634110544
+shop=clothes,Peacocks,,,,"https://www.google.com/maps/search/?api=1&query=53.3923816,-6.2502032",,Peacocks,53.3923816,-6.2502032,node,5268058811
+shop=clothes,Penneys,,,,"https://www.google.com/maps/search/?api=1&query=53.3918395,-6.3903289",,Primark,53.3918395,-6.3903289,node,956221515
+shop=clothes,Penneys,,,,"https://www.google.com/maps/search/?api=1&query=53.3917575,-6.247952",,Primark,53.3917575,-6.247952,node,4105794007
+shop=clothes,Penneys,Kilmore Road Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3831098,-6.2149594",,Primark,53.3831098,-6.2149594,node,4686795179
+shop=clothes,Penneys,,,,"https://www.google.com/maps/search/?api=1&query=53.3523724,-6.3931451",,Primark,53.3523724,-6.3931451,node,5556255324
+shop=clothes,Penneys,Nutgrove Way,,,"https://www.google.com/maps/search/?api=1&query=53.289883,-6.266388",,Primark,53.289883,-6.266388,node,9887193828
+shop=clothes,Penneys,The Square Tallaght,,,"https://www.google.com/maps/search/?api=1&query=53.287006,-6.3713579",,Primark,53.287006,-6.3713579,node,10278970742
+shop=clothes,Penneys,Town Square,https://www.primark.com/en-ie/stores/dublin/unit-21-penneys-level-2-dundrum-town-centre,primark.com,"https://www.google.com/maps/search/?api=1&query=53.2877831,-6.2427806",+353 1 2415 040,Primark,53.2877831,-6.2427806,node,11940097023
+shop=clothes,Penneys,82-85 George's Street Lower Dún Laoghaire A96 XN81,https://stores.primark.com/en_ie/ireland/dun-laoghaire/84-85-lower-george-street,stores.primark.com,"https://www.google.com/maps/search/?api=1&query=53.2928314,-6.1368915",+353-1-2801946,Primark,53.2928314,-6.1368915,way,58692968
+shop=clothes,Penneys,Mary Street Dublin,https://www.primark.com/,primark.com,"https://www.google.com/maps/search/?api=1&query=53.34954,-6.2664794",,Primark,53.34954,-6.2664794,way,104378037
+shop=clothes,Penneys,39 O'Connell Street Lower Dublin,https://www.primark.com/en-ie/stores/dublin/39-oconnell-street,primark.com,"https://www.google.com/maps/search/?api=1&query=53.3486438,-6.2607008",+353-1-656-6666,Primark,53.3486438,-6.2607008,way,301007195
+shop=clothes,Penthouse,,,,"https://www.google.com/maps/search/?api=1&query=53.3524537,-6.392273",,,53.3524537,-6.392273,node,5556461022
+shop=clothes,Pep&Co,,,,"https://www.google.com/maps/search/?api=1&query=53.4017663,-6.1782093",,Pep&Co,53.4017663,-6.1782093,node,10726192316
+shop=clothes,Petit Summer,234 Merrion Road,https://www.petit.ie/,petit.ie,"https://www.google.com/maps/search/?api=1&query=53.317469,-6.2080683",+353-1-260-6601,,53.317469,-6.2080683,node,4751529380
+shop=clothes,Phillip's Workwear,Capel Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3474271,-6.2686177",,,53.3474271,-6.2686177,way,229061168
+shop=clothes,Platform,55b Rathgar Avenue Dublin,https://thesuite.ie/,thesuite.ie,"https://www.google.com/maps/search/?api=1&query=53.3149129,-6.2759762",+353-1-4067028,,53.3149129,-6.2759762,way,299590442
+shop=clothes,Plus and Minors,,,,"https://www.google.com/maps/search/?api=1&query=53.3401055,-6.320443",,,53.3401055,-6.320443,node,13202858201
+shop=clothes,Protocol Suit Gallery,42 Dawson Street Dublin D02 NX79,https://protocolmenswear.com/,protocolmenswear.com,"https://www.google.com/maps/search/?api=1&query=53.3408338,-6.2585718",+353-1-6772777,,53.3408338,-6.2585718,node,5110046864
+shop=clothes,Pure Boutique,2 Magic Carpet Centre Cornelscourt,,,"https://www.google.com/maps/search/?api=1&query=53.2690741,-6.1670918",,,53.2690741,-6.1670918,way,137929850
+shop=clothes,Quiz,,,,"https://www.google.com/maps/search/?api=1&query=53.3532803,-6.3898691",,Quiz,53.3532803,-6.3898691,node,5556517422
+shop=clothes,Racy,29 Henry Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3495041,-6.2614792",,,53.3495041,-6.2614792,node,10079507999
+shop=clothes,Rae Feather,55,,,"https://www.google.com/maps/search/?api=1&query=53.2870343,-6.1222705",,,53.2870343,-6.1222705,node,11522480199
+shop=clothes,Reiss,1 St. Stephen's Green Dublin,https://www.reiss.com/ie/en,reiss.com,"https://www.google.com/maps/search/?api=1&query=53.3401035,-6.2604316",,Reiss,53.3401035,-6.2604316,way,230479382
+shop=clothes,Remus Uomo,St. Stephen's Green Dublin,https://www.remusuomo.com/,remusuomo.com,"https://www.google.com/maps/search/?api=1&query=53.3396857,-6.2590409",,,53.3396857,-6.2590409,node,11407323006
+shop=clothes,Renaissance,,,,"https://www.google.com/maps/search/?api=1&query=53.2940221,-6.1526053",+353-1-853-0409,,53.2940221,-6.1526053,node,4359042263
+shop=clothes,Retro,George's Street Arcade Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.342471,-6.2640913",,,53.342471,-6.2640913,node,6113011325
+shop=clothes,River Island,Mary Street Dublin,https://www.riverisland.com/how-can-we-help/find-a-store/dublin-ilac,riverisland.com,"https://www.google.com/maps/search/?api=1&query=53.3492074,-6.2646603",,River Island,53.3492074,-6.2646603,node,5377094313
+shop=clothes,River Island,,,,"https://www.google.com/maps/search/?api=1&query=53.3534613,-6.3894773",,River Island,53.3534613,-6.3894773,node,5556512023
+shop=clothes,River Island,,,,"https://www.google.com/maps/search/?api=1&query=53.28593,-6.3711795",,River Island,53.28593,-6.3711795,node,9205674946
+shop=clothes,River Island,,,,"https://www.google.com/maps/search/?api=1&query=53.2869393,-6.2421166",,River Island,53.2869393,-6.2421166,node,11940354090
+shop=clothes,River Island,102-103 Grafton Street Dublin,https://www.riverisland.com/how-can-we-help/find-a-store/dublin-grafton-street,riverisland.com,"https://www.google.com/maps/search/?api=1&query=53.3430637,-6.2598081",,River Island,53.3430637,-6.2598081,way,260269662
+shop=clothes,RobePlan,Goatstown Road,https://www.robeplan.com/,robeplan.com,"https://www.google.com/maps/search/?api=1&query=53.2929009,-6.229278",+353 1 206 4110,,53.2929009,-6.229278,way,110954544
+shop=clothes,Rocco,Clontarf Road,,,"https://www.google.com/maps/search/?api=1&query=53.35926,-6.1959067",,,53.35926,-6.1959067,node,5429898099
+shop=clothes,Rococo,,,,"https://www.google.com/maps/search/?api=1&query=53.286973,-6.1229558",,,53.286973,-6.1229558,node,11522540405
+shop=clothes,S.K Safety & Hose Ltd,,,,"https://www.google.com/maps/search/?api=1&query=53.3248614,-6.3941116",,,53.3248614,-6.3941116,node,12636407000
+shop=clothes,S.l.o.w S.t.r.e.e.t,16 Main Street Blackrock,https://slowstreet.ie/,slowstreet.ie,"https://www.google.com/maps/search/?api=1&query=53.3015268,-6.1774252",,,53.3015268,-6.1774252,node,3733532959
+shop=clothes,SELECTED,Sandyford Road,,,"https://www.google.com/maps/search/?api=1&query=53.2865995,-6.2409852",,SELECTED,53.2865995,-6.2409852,node,11940039990
+shop=clothes,Salsa Jeans,,,,"https://www.google.com/maps/search/?api=1&query=53.3524492,-6.3920601",,,53.3524492,-6.3920601,node,11030167570
+shop=clothes,Samie Ladies,,,,"https://www.google.com/maps/search/?api=1&query=53.3424115,-6.3525802",,,53.3424115,-6.3525802,node,5862048393
+shop=clothes,Seagreen,Monkstown Crescent Monkstown,http://seagreen.ie/,seagreen.ie,"https://www.google.com/maps/search/?api=1&query=53.2940253,-6.1529057",+353-1-202-0130,,53.2940253,-6.1529057,node,4359042264
+shop=clothes,Seagreen,45 Ranelagh Dublin,http://seagreen.ie/,seagreen.ie,"https://www.google.com/maps/search/?api=1&query=53.324777,-6.2542582",+353 1 497 7937,,53.324777,-6.2542582,way,369361432
+shop=clothes,Serendipity Kids,Rathgar Avenue Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3123012,-6.274715",,,53.3123012,-6.274715,way,935134062
+shop=clothes,Shaws,80-81 George's Street Lower Dún Laoghaire A96 RR77,https://www.shaws.ie/store/dun-laoghaire/,shaws.ie,"https://www.google.com/maps/search/?api=1&query=53.2926444,-6.1365989",,,53.2926444,-6.1365989,way,58692963
+shop=clothes,She Boutique,Terenure Road North Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3107394,-6.2829402",,,53.3107394,-6.2829402,node,3106272133
+shop=clothes,Sheila Considine,,,,"https://www.google.com/maps/search/?api=1&query=53.2606951,-6.150352",,,53.2606951,-6.150352,node,4256571890
+shop=clothes,Sinead Keary,,,,"https://www.google.com/maps/search/?api=1&query=53.2869053,-6.2416272",,,53.2869053,-6.2416272,node,11940354092
+shop=clothes,Siopaella,20 Cecilia Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3449397,-6.2641883",,,53.3449397,-6.2641883,node,5878034785
+shop=clothes,Snazzy,,,,"https://www.google.com/maps/search/?api=1&query=53.316095,-6.3182787",,,53.316095,-6.3182787,node,11724937596
+shop=clothes,Snickers Workwear,,,,"https://www.google.com/maps/search/?api=1&query=53.3122401,-6.3473223",,,53.3122401,-6.3473223,node,4569218889
+shop=clothes,Soho Market,Dublin,https://sohomarketboutique.com/,sohomarketboutique.com,"https://www.google.com/maps/search/?api=1&query=53.340135,-6.2618553",,,53.340135,-6.2618553,node,11634194875
+shop=clothes,Soho Market NYC,Rathmines Road Lower Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3232989,-6.2648233",,,53.3232989,-6.2648233,node,3493931981
+shop=clothes,Soul Woman,,,,"https://www.google.com/maps/search/?api=1&query=53.2873857,-6.1249125",,,53.2873857,-6.1249125,node,11522519061
+shop=clothes,Stable,2 Westbury Mall Dublin D02NH29,https://www.stableofireland.com/,stableofireland.com,"https://www.google.com/maps/search/?api=1&query=53.3414561,-6.2612053",+353 1 675 3936,,53.3414561,-6.2612053,node,10199983666
+shop=clothes,Stradivarius,,,,"https://www.google.com/maps/search/?api=1&query=53.3525695,-6.3911105",,Stradivarius,53.3525695,-6.3911105,node,5556461023
+shop=clothes,Suitable Company,15 Duke Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3417555,-6.2586945",,,53.3417555,-6.2586945,way,270937625
+shop=clothes,Suits You,Liffey Street Upper Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3486419,-6.2643278",,,53.3486419,-6.2643278,node,5377069127
+shop=clothes,Superdry,6-10 Suffolk Street Dublin D02 X854,https://stores.superdry.ie/dublin/6-10-suffolk-street,stores.superdry.ie,"https://www.google.com/maps/search/?api=1&query=53.3436665,-6.2602046",+35316401116,Superdry,53.3436665,-6.2602046,node,2885252925
+shop=clothes,Susan Hunter,13 Westbury Mall Dublin D02XC78,https://susanhunter.ie/,susanhunter.ie,"https://www.google.com/maps/search/?api=1&query=53.3415727,-6.2612125",+353 1 679 1271,,53.3415727,-6.2612125,node,10199983671
+shop=clothes,Swan Centre,Castlewood Avenue,,,"https://www.google.com/maps/search/?api=1&query=53.3227482,-6.2642156",,,53.3227482,-6.2642156,node,5083380019
+shop=clothes,Sweaty Betty,32-33 Anne Street South Dublin,https://www.sweatybetty.com/shop-details/ireland-dublin-501,sweatybetty.com,"https://www.google.com/maps/search/?api=1&query=53.3410976,-6.2601063",,Sweaty Betty,53.3410976,-6.2601063,node,6332870729
+shop=clothes,Tallon Tailoring & Formal Dress Hire Service,206 Harold's Cross Road Dublin,https://www.facebook.com/pages/Tallon-Tailoring-Formal-Dress-Hire-Service/149526678542279,facebook.com,"https://www.google.com/maps/search/?api=1&query=53.3226839,-6.2795661",+353 1 4969503,,53.3226839,-6.2795661,node,2986757647
+shop=clothes,Tamp & stitch,,,,"https://www.google.com/maps/search/?api=1&query=53.3444991,-6.2694561",,,53.3444991,-6.2694561,node,11320852345
+shop=clothes,Tango's,Fownes Street Upper Dublin,https://tangos.ie/,tangos.ie,"https://www.google.com/maps/search/?api=1&query=53.3447168,-6.2634515",,,53.3447168,-6.2634515,node,12035318313
+shop=clothes,Teamwear,Dublin,https://www.teamwear.ie/,teamwear.ie,"https://www.google.com/maps/search/?api=1&query=53.3060237,-6.3515884",,,53.3060237,-6.3515884,node,12219097533
+shop=clothes,Tector,Rathmines Road Lower Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3232813,-6.2645766",,,53.3232813,-6.2645766,node,3493931977
+shop=clothes,Ted Baker,42 Grafton Street Dublin,https://www.tedbaker.com/ie/stores/DUBLIN---TED-BAKER/70076?country=IE,tedbaker.com,"https://www.google.com/maps/search/?api=1&query=53.340619,-6.2603244",,Ted Baker,53.340619,-6.2603244,way,230479379
+shop=clothes,The Big Smoke,,,,"https://www.google.com/maps/search/?api=1&query=53.3458492,-6.2629828",,,53.3458492,-6.2629828,node,12926139678
+shop=clothes,The Brand Store,Henry Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3494402,-6.263265",,,53.3494402,-6.263265,node,10079508530
+shop=clothes,The Little Wooden Peg,55 Georges Street Upper Dún Laoghaire A96 DK26,https://thelittlewoodenpeg.com/,thelittlewoodenpeg.com,"https://www.google.com/maps/search/?api=1&query=53.2898164,-6.1305591",,,53.2898164,-6.1305591,node,658492246
+shop=clothes,The North Face,43 Grafton Street Dublin,https://locations.thenorthface.eu/dublin/dublin/TNFSD-GS42D/,locations.thenorthface.eu,"https://www.google.com/maps/search/?api=1&query=53.3405977,-6.260633",,The North Face,53.3405977,-6.260633,node,6187145162
+shop=clothes,The North Face,Town Square Dundrum,https://www.thenorthface.ie/,thenorthface.ie,"https://www.google.com/maps/search/?api=1&query=53.2878511,-6.2426011",+353 51 207 9059,The North Face,53.2878511,-6.2426011,node,11918204467
+shop=clothes,The North Face,Temple Lane South Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3451819,-6.2642117",,The North Face,53.3451819,-6.2642117,node,12041198348
+shop=clothes,The One,Castlewood Avenue D06 K2F3,https://www.theone.ie/,theone.ie,"https://www.google.com/maps/search/?api=1&query=53.3227378,-6.2643048",,,53.3227378,-6.2643048,node,5083380020
+shop=clothes,The Turret,Castle Market Dublin,https://theturret.ie/,theturret.ie,"https://www.google.com/maps/search/?api=1&query=53.3423771,-6.2627453",,,53.3423771,-6.2627453,node,6984776458
+shop=clothes,The Woollen Mills,42 Ormond Quay Lower Dublin,https://www.thewoollenmills.com/,thewoollenmills.com,"https://www.google.com/maps/search/?api=1&query=53.3467395,-6.2635284",,,53.3467395,-6.2635284,node,1720988548
+shop=clothes,The bull ring,,,,"https://www.google.com/maps/search/?api=1&query=53.341112,-6.2783968",,,53.341112,-6.2783968,node,1473508567
+shop=clothes,Timberland,,,,"https://www.google.com/maps/search/?api=1&query=53.3528534,-6.3908786",,Timberland,53.3528534,-6.3908786,node,11030167574
+shop=clothes,Timberland,31 Anne Street South Dublin,https://www.timberland.ie/,timberland.ie,"https://www.google.com/maps/search/?api=1&query=53.3409839,-6.260014",,Timberland,53.3409839,-6.260014,way,249212456
+shop=clothes,Tola Vintage,Fownes Street Upper Dublin,https://www.tolavintage.com,tolavintage.com,"https://www.google.com/maps/search/?api=1&query=53.3452485,-6.2632943",,,53.3452485,-6.2632943,node,6112928288
+shop=clothes,Tommy Hilfiger,,,,"https://www.google.com/maps/search/?api=1&query=53.353586,-6.3892673",,Tommy Hilfiger,53.353586,-6.3892673,node,5556529521
+shop=clothes,Tommy Hilfiger,,,,"https://www.google.com/maps/search/?api=1&query=53.2873542,-6.2421493",,Tommy Hilfiger,53.2873542,-6.2421493,node,11940298912
+shop=clothes,Topstore,Ballyfermot Road Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3424315,-6.351064",,,53.3424315,-6.351064,node,5862047879
+shop=clothes,U Wear,,,,"https://www.google.com/maps/search/?api=1&query=53.3424353,-6.3508398",,,53.3424353,-6.3508398,node,5862047873
+shop=clothes,Uniform Warehouse,Stillorgan Road Dublin,https://uniformwarehouse.ie,uniformwarehouse.ie,"https://www.google.com/maps/search/?api=1&query=53.309995,-6.2168694",(01) 283 0173,,53.309995,-6.2168694,node,3529067536
+shop=clothes,United Colors of Benetton,59 Grafton Street Dublin,https://ie.benetton.com/,ie.benetton.com,"https://www.google.com/maps/search/?api=1&query=53.340437,-6.2609496",+353-1-6728698,United Colors of Benetton,53.340437,-6.2609496,node,6185260263
+shop=clothes,United Colors of Benetton,St. Stephen's Green Dublin,https://ie.benetton.com/,ie.benetton.com,"https://www.google.com/maps/search/?api=1&query=53.3397686,-6.2611593",,United Colors of Benetton,53.3397686,-6.2611593,node,9217315840
+shop=clothes,Urban Outfitters,7a Fownes Street Upper Dublin,https://www.urbanoutfitters.com/stores/temple-bar,urbanoutfitters.com,"https://www.google.com/maps/search/?api=1&query=53.3452234,-6.2637314",,Urban Outfitters,53.3452234,-6.2637314,way,441055582
+shop=clothes,Vera Moda,,,,"https://www.google.com/maps/search/?api=1&query=53.392221,-6.2475181",,,53.392221,-6.2475181,node,10591680063
+shop=clothes,Vero Moda,A96 R268,,,"https://www.google.com/maps/search/?api=1&query=53.2930447,-6.1392146",+353-1-230-0907,Vero Moda,53.2930447,-6.1392146,node,9407869220
+shop=clothes,Vero Moda,,,,"https://www.google.com/maps/search/?api=1&query=53.2869432,-6.3712604",,Vero Moda,53.2869432,-6.3712604,node,10298931480
+shop=clothes,Victoria's Secret,Grafton Street Dublin,https://www.victoriassecret.ie/,victoriassecret.ie,"https://www.google.com/maps/search/?api=1&query=53.341524,-6.2601293",,Victoria's Secret,53.341524,-6.2601293,node,6205682336
+shop=clothes,Viper,26 Liffey Street Lower Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3473523,-6.2635433",,,53.3473523,-6.2635433,node,5376983450
+shop=clothes,W12,,,,"https://www.google.com/maps/search/?api=1&query=53.3197514,-6.2915162",,,53.3197514,-6.2915162,node,2988815332
+shop=clothes,Weavers of Ireland,9 Westmoreland Street Dublin,https://weaversofireland.com/,weaversofireland.com,"https://www.google.com/maps/search/?api=1&query=53.3459126,-6.2594181",,,53.3459126,-6.2594181,node,467744850
+shop=clothes,Yaya,7 George's Street Upper Dún Laoghaire,https://yaya.eu/pages/yaya-dun-laoghaire,yaya.eu,"https://www.google.com/maps/search/?api=1&query=53.2920683,-6.1358471",+353 83 404 8243,,53.2920683,-6.1358471,node,10673795299
+shop=clothes,Zara,,,,"https://www.google.com/maps/search/?api=1&query=53.3929832,-6.3891721",,Zara,53.3929832,-6.3891721,node,956221522
+shop=clothes,Zara,,,,"https://www.google.com/maps/search/?api=1&query=53.3930481,-6.3895853",,Zara,53.3930481,-6.3895853,node,1192623328
+shop=clothes,Zara,King Street South Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.34045,-6.262325",,Zara,53.34045,-6.262325,node,2411967878
+shop=clothes,Zara,Henry Street Dublin,https://www.zara.com/,zara.com,"https://www.google.com/maps/search/?api=1&query=53.3492538,-6.2644175",,Zara,53.3492538,-6.2644175,node,5377094314
+shop=clothes,Zara,,,,"https://www.google.com/maps/search/?api=1&query=53.3535702,-6.3896331",,Zara,53.3535702,-6.3896331,node,11030249307
+shop=clothes,Zara,,,,"https://www.google.com/maps/search/?api=1&query=53.2865853,-6.2416814",,Zara,53.2865853,-6.2416814,node,11940354095
+shop=clothes,so lo,Wexford Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3365081,-6.2652926",,,53.3365081,-6.2652926,node,2981204964
+shop=clothes,vincent's,,,,"https://www.google.com/maps/search/?api=1&query=53.3421424,-6.3566805",,,53.3421424,-6.3566805,node,8521097209
+shop=computer,511 Tech Solutions,511 North Circular Road Dublin,http://511techsolutions.com/,511techsolutions.com,"https://www.google.com/maps/search/?api=1&query=53.359536,-6.259787",+353 1 8197834,,53.359536,-6.259787,node,3465847948
+shop=computer,Camara Education,,,,"https://www.google.com/maps/search/?api=1&query=53.3474315,-6.3440779",,,53.3474315,-6.3440779,node,10799574332
+shop=computer,Castle Computers,,https://www.castlecomputers.ie/,castlecomputers.ie,"https://www.google.com/maps/search/?api=1&query=53.3560626,-6.2649656",,,53.3560626,-6.2649656,node,650350878
+shop=computer,Computer Clinic,55a Manor Place,,,"https://www.google.com/maps/search/?api=1&query=53.3522015,-6.2847333",,,53.3522015,-6.2847333,way,308091564
+shop=computer,Computer Doctor .ie,,,,"https://www.google.com/maps/search/?api=1&query=53.3625734,-6.2369736",,,53.3625734,-6.2369736,node,11987289644
+shop=computer,Computer King,23 Main Street,https://computerking.ie/,computerking.ie,"https://www.google.com/maps/search/?api=1&query=53.3958081,-6.4401495",+353-1-6831518,,53.3958081,-6.4401495,node,6344025087
+shop=computer,Computer Room,Terenure Road East Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3099645,-6.2827809",,,53.3099645,-6.2827809,node,3104886050
+shop=computer,Contact Solutions,41 Ravensdale Park D12 A0HC,,,"https://www.google.com/maps/search/?api=1&query=53.3149745,-6.3010744",+353 1 4027914,,53.3149745,-6.3010744,node,4248540837
+shop=computer,Express Tech,Baggot Street Lower Dublin,https://www.expresstech.ie/,expresstech.ie,"https://www.google.com/maps/search/?api=1&query=53.3362604,-6.2485032",,,53.3362604,-6.2485032,node,4806183921
+shop=computer,FixIT,,https://www.fixitireland.ie/,fixitireland.ie,"https://www.google.com/maps/search/?api=1&query=53.3019007,-6.1800966",+353-1-210-1012,,53.3019007,-6.1800966,node,4938934822
+shop=computer,IT Clinic - Computer repair services,332 North Circular Road,,,"https://www.google.com/maps/search/?api=1&query=53.3606037,-6.2746358",,,53.3606037,-6.2746358,node,2682531691
+shop=computer,IT Direct,Parliament Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3442889,-6.2674482",,,53.3442889,-6.2674482,node,2710596548
+shop=computer,IT Star,Georges Street Upper,https://itstar.ie/,itstar.ie,"https://www.google.com/maps/search/?api=1&query=53.292322,-6.1356524",+353-1-558-9306,,53.292322,-6.1356524,node,8855254682
+shop=computer,IT-FIX,176 Parnell Street,,,"https://www.google.com/maps/search/?api=1&query=53.3517241,-6.2633365",,,53.3517241,-6.2633365,node,6260897985
+shop=computer,IT-FIX,111 Capel Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3493649,-6.2692872",,,53.3493649,-6.2692872,node,6260908185
+shop=computer,LaptopLab at Back From The Future,58 South Great George's Street Dublin,https://backfromthefuture.ie/,backfromthefuture.ie,"https://www.google.com/maps/search/?api=1&query=53.3421458,-6.2648817",+353-1-4757177,,53.3421458,-6.2648817,node,5546148377
+shop=computer,Laptoplab,Unit 11 Main Street Donnybrook,https://backfromthefuture.ie/,backfromthefuture.ie,"https://www.google.com/maps/search/?api=1&query=53.3223548,-6.2377751",+353-1-531-0400,,53.3223548,-6.2377751,node,5167945446
+shop=computer,Mactivate,Unit 13,,,"https://www.google.com/maps/search/?api=1&query=53.4104945,-6.3567434",,,53.4104945,-6.3567434,node,539137657
+shop=computer,MicroPro Computers,98 Nutgrove Avenue,,,"https://www.google.com/maps/search/?api=1&query=53.2924725,-6.2726793",,,53.2924725,-6.2726793,way,83699623
+shop=computer,New Paddy,68 Convent Road Dún Laoghaire,https://www.newpaddy.ie,newpaddy.ie,"https://www.google.com/maps/search/?api=1&query=53.2924642,-6.1372168",+353-1-230-3852,,53.2924642,-6.1372168,node,6179505934
+shop=computer,PC House,Dublin,https://www.pchouse.ie/,pchouse.ie,"https://www.google.com/maps/search/?api=1&query=53.3555815,-6.2645275",,,53.3555815,-6.2645275,node,11210667189
+shop=computer,Printbox,Dorset Street Upper,http://printbox.ie/,printbox.ie,"https://www.google.com/maps/search/?api=1&query=53.3562522,-6.265289",+353-85-7079001,,53.3562522,-6.265289,node,5384454767
+shop=computer,Select,King Street South Dublin,https://ie.selectonline.com/,ie.selectonline.com,"https://www.google.com/maps/search/?api=1&query=53.340386,-6.262067",,,53.340386,-6.262067,node,2411968976
+shop=computer,Select,D16 KD91,https://ie.selectonline.com,ie.selectonline.com,"https://www.google.com/maps/search/?api=1&query=53.2871795,-6.2419778",0818 66 8888,,53.2871795,-6.2419778,node,11199853707
+shop=computer,Select,111 Grafton Street Dublin,https://ie.selectonline.com/,ie.selectonline.com,"https://www.google.com/maps/search/?api=1&query=53.343656,-6.2595304",,,53.343656,-6.2595304,way,261260362
+shop=computer,Softtech Computers,Dundrum Road,,,"https://www.google.com/maps/search/?api=1&query=53.2972078,-6.2468311",,,53.2972078,-6.2468311,node,6433689543
+shop=computer,Tech4U,44 Fairview Strand,https://tech4u.ie,tech4u.ie,"https://www.google.com/maps/search/?api=1&query=53.36267,-6.2398236",+353 1 8069 853,,53.36267,-6.2398236,way,983727330
+shop=computer,Techclub,Clanbrassil Street Upper,,,"https://www.google.com/maps/search/?api=1&query=53.3320864,-6.2749888",,,53.3320864,-6.2749888,node,3902405494
+shop=computer,Technology Solutions,39 Westland Row Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3425282,-6.2500767",,,53.3425282,-6.2500767,node,3971792806
+shop=computer,The Laptop Shop,Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3402785,-6.2626747",,,53.3402785,-6.2626747,node,12176994739
+shop=computer,WestTech Technologies,112-114 Ardilaun Court,https://westtech.ie/,westtech.ie,"https://www.google.com/maps/search/?api=1&query=53.340798,-6.2725989",(01) 437 8306,,53.340798,-6.2725989,node,9344490428
+shop=computer,eBox,Dorset Street Upper Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3566278,-6.2644403",,,53.3566278,-6.2644403,node,1349656253
+shop=electronics,Allied Appliances,24 Crumlin Road Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3316909,-6.2948259",,,53.3316909,-6.2948259,way,929163427
+shop=electronics,Barb Electrical,Park Road Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.372585,-6.3209574",,,53.372585,-6.3209574,way,972112541
+shop=electronics,Bowen Electrical Wholesalers Ltd.,Brookfield Terrace,http://www.bowenelectrical.com/,bowenelectrical.com,"https://www.google.com/maps/search/?api=1&query=53.2956575,-6.1790115",,,53.2956575,-6.1790115,node,3745276608
+shop=electronics,Brother,37 Constellation Avenue Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.4040281,-6.233921",,,53.4040281,-6.233921,node,4358058502
+shop=electronics,Buddy Mobile,,,,"https://www.google.com/maps/search/?api=1&query=53.3637024,-6.2345258",,,53.3637024,-6.2345258,way,314103957
+shop=electronics,C.S.S. Audio Visual,,,,"https://www.google.com/maps/search/?api=1&query=53.3669432,-6.1734406",,,53.3669432,-6.1734406,way,1026201414
+shop=electronics,CQ Commuunications,22 Ormond Quay Lower Dublin,https://cqcomms.com/,cqcomms.com,"https://www.google.com/maps/search/?api=1&query=53.3463766,-6.2653823",+353 1 8722752,,53.3463766,-6.2653823,node,3477082226
+shop=electronics,Carrick Hoover Centre,7A Carrickbrennan Road,,,"https://www.google.com/maps/search/?api=1&query=53.2929482,-6.1520224",,,53.2929482,-6.1520224,way,58641344
+shop=electronics,CeX,23 George's Street Great South Dublin,https://ie.webuy.com/site/storeDetail?branchId=1536,ie.webuy.com,"https://www.google.com/maps/search/?api=1&query=53.3424244,-6.2643676",,CeX,53.3424244,-6.2643676,node,2997549699
+shop=electronics,CeX,13 Westmoreland Street Dublin,https://ie.webuy.com/site/storeDetail?branchId=1524,ie.webuy.com,"https://www.google.com/maps/search/?api=1&query=53.3461991,-6.2594034",,CeX,53.3461991,-6.2594034,node,3450095069
+shop=electronics,CeX,68 George's Street Lower Dún Laoghaire A96HX37,https://ie.webuy.com/,ie.webuy.com,"https://www.google.com/maps/search/?api=1&query=53.2925865,-6.1369586",,CeX,53.2925865,-6.1369586,node,6178819985
+shop=electronics,CeX,Main Street Bray,,,"https://www.google.com/maps/search/?api=1&query=53.202943,-6.1095986",,CeX,53.202943,-6.1095986,node,8091941732
+shop=electronics,CeX,,,,"https://www.google.com/maps/search/?api=1&query=53.2861194,-6.3714326",,CeX,53.2861194,-6.3714326,node,9281625775
+shop=electronics,CeX,,,,"https://www.google.com/maps/search/?api=1&query=53.3919224,-6.2485474",,CeX,53.3919224,-6.2485474,node,10591621652
+shop=electronics,CeX,Nutgrove Way,,,"https://www.google.com/maps/search/?api=1&query=53.2900275,-6.267413",,CeX,53.2900275,-6.267413,node,12915650356
+shop=electronics,CeX,11-12 Liffey Street Upper Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3487539,-6.2640617",,CeX,53.3487539,-6.2640617,way,612788283
+shop=electronics,Currys,Coldcut Road Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3483647,-6.3910723",,currys,53.3483647,-6.3910723,node,846868087
+shop=electronics,Currys,9 Carrickmines Park,https://www.currys.ie/,currys.ie,"https://www.google.com/maps/search/?api=1&query=53.2503644,-6.1850358",,currys,53.2503644,-6.1850358,node,943370453
+shop=electronics,Currys,Mary Street Dublin,https://www.currys.ie/,currys.ie,"https://www.google.com/maps/search/?api=1&query=53.3478127,-6.2656875",,currys,53.3478127,-6.2656875,node,6789905190
+shop=electronics,Currys,,,,"https://www.google.com/maps/search/?api=1&query=53.4471122,-6.2238956",,currys,53.4471122,-6.2238956,node,10736705862
+shop=electronics,Currys,,,,"https://www.google.com/maps/search/?api=1&query=53.3950339,-6.3887562",,currys,53.3950339,-6.3887562,way,1258902575
+shop=electronics,DID Electrical,Mornington Park Dublin,https://www.did.ie/,did.ie,"https://www.google.com/maps/search/?api=1&query=53.3822046,-6.208021",+353 1 8513322,DID Electrical,53.3822046,-6.208021,node,1529996771
+shop=electronics,DID Electrical,81 Kilmacud Road Lower Stillorgan,https://www.did.ie/stores/stillorgan,did.ie,"https://www.google.com/maps/search/?api=1&query=53.2889249,-6.2045087",+353-1-288-4174,DID Electrical,53.2889249,-6.2045087,node,4078519907
+shop=electronics,DID Electrical,Belgard Road,,,"https://www.google.com/maps/search/?api=1&query=53.2885436,-6.3671483",,DID Electrical,53.2885436,-6.3671483,node,10555210328
+shop=electronics,DID Electrical,,,,"https://www.google.com/maps/search/?api=1&query=53.446187,-6.2266801",,DID Electrical,53.446187,-6.2266801,node,12643193033
+shop=electronics,DID Electrical,310-314 Sundrive Road Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3296816,-6.2984876",+35314531844,DID Electrical,53.3296816,-6.2984876,way,127359304
+shop=electronics,DID Electrical,,,,"https://www.google.com/maps/search/?api=1&query=53.3834011,-6.2940817",,DID Electrical,53.3834011,-6.2940817,way,1182074184
+shop=electronics,Dolphin Electrical,,,,"https://www.google.com/maps/search/?api=1&query=53.3338753,-6.2916594",,,53.3338753,-6.2916594,node,4266245714
+shop=electronics,Dominic Smith,Blanchardstown Retail Park,,,"https://www.google.com/maps/search/?api=1&query=53.3955155,-6.3916566",,,53.3955155,-6.3916566,way,1264189605
+shop=electronics,Dublin Electrical Wholesalers Ltd.,,,,"https://www.google.com/maps/search/?api=1&query=53.3574591,-6.2510679",,,53.3574591,-6.2510679,node,467744912
+shop=electronics,Electro Repair Centre,40 George's Street Great South Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3418701,-6.2647109",,,53.3418701,-6.2647109,node,2997543388
+shop=electronics,Electronic Security Products Ltd,641 Howth Road Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3815206,-6.1527857",,,53.3815206,-6.1527857,node,3826598826
+shop=electronics,Farnell's,Jamestown Road,,,"https://www.google.com/maps/search/?api=1&query=53.3896765,-6.2986098",,,53.3896765,-6.2986098,way,1022471502
+shop=electronics,Fix My Tech,35 Rathmines Road Upper,,,"https://www.google.com/maps/search/?api=1&query=53.3208633,-6.2656653",+353-1-4976106,,53.3208633,-6.2656653,node,564453102
+shop=electronics,Fonefix,,,,"https://www.google.com/maps/search/?api=1&query=53.2752379,-6.2050543",,,53.2752379,-6.2050543,node,3985753837
+shop=electronics,Freesat Satellite TV,132 Philipsburgh Avenue Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3684501,-6.2392396",,,53.3684501,-6.2392396,way,359845032
+shop=electronics,Fuji Digital Center,Malahide Road Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.4010817,-6.1792124",,,53.4010817,-6.1792124,node,5562033604
+shop=electronics,Gallagher TV,10 Rathmines Road Upper Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3211875,-6.2655146",+353 1 4910222,,53.3211875,-6.2655146,node,3040092717
+shop=electronics,Hugmie,Liffey Street Upper Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3488006,-6.2644104",,,53.3488006,-6.2644104,node,5377069132
+shop=electronics,Hugmie,The Square Tallaght,,,"https://www.google.com/maps/search/?api=1&query=53.2863636,-6.3719867",,,53.2863636,-6.3719867,node,10298931483
+shop=electronics,InMotion,,,,"https://www.google.com/maps/search/?api=1&query=53.4257145,-6.2404399",,InMotion,53.4257145,-6.2404399,node,12209379862
+shop=electronics,InMotion,,,,"https://www.google.com/maps/search/?api=1&query=53.4272613,-6.2448564",,InMotion,53.4272613,-6.2448564,node,13246126564
+shop=electronics,KDElectronics.ie,Muirfield Drive Dublin,http://KDElectronics.ie,kdelectronics.ie,"https://www.google.com/maps/search/?api=1&query=53.3291793,-6.3330422",,,53.3291793,-6.3330422,node,11179667544
+shop=electronics,Kellihers Electrical,Three Rock Road,,,"https://www.google.com/maps/search/?api=1&query=53.2748275,-6.2103989",,,53.2748275,-6.2103989,way,302437922
+shop=electronics,Mastercare,,,,"https://www.google.com/maps/search/?api=1&query=53.3710838,-6.2072228",,,53.3710838,-6.2072228,way,341314113
+shop=electronics,Music Maker,29 Exchequer Street Dublin,https://musicmaker.ie/,musicmaker.ie,"https://www.google.com/maps/search/?api=1&query=53.3432193,-6.2625891",+353 16779004,,53.3432193,-6.2625891,node,4100276891
+shop=electronics,MySatNav.ie,93 George's Street Upper Dún Laoghaire A96 V1K8,https://www.mysatnav.ie,mysatnav.ie,"https://www.google.com/maps/search/?api=1&query=53.2911848,-6.1329629",+353 1 293 6987,Garmin; Shokz; Withings,53.2911848,-6.1329629,node,12061087833
+shop=electronics,ND Electrical,108 Nutgrove Avenue,,,"https://www.google.com/maps/search/?api=1&query=53.2922492,-6.2721065",,,53.2922492,-6.2721065,way,83699611
+shop=electronics,National Electrical Wholesalers,MP2,,,"https://www.google.com/maps/search/?api=1&query=53.3674307,-6.2272817",,,53.3674307,-6.2272817,way,986938183
+shop=electronics,New Paddy Electronics,,,,"https://www.google.com/maps/search/?api=1&query=53.3922437,-6.2488948",,,53.3922437,-6.2488948,node,2858669255
+shop=electronics,New Paddy Electronics,,,,"https://www.google.com/maps/search/?api=1&query=53.2593787,-6.1970981",,,53.2593787,-6.1970981,node,3279350697
+shop=electronics,One Stop Repair,,,,"https://www.google.com/maps/search/?api=1&query=53.2699953,-6.1671359",,,53.2699953,-6.1671359,node,4276967792
+shop=electronics,PC-universe.net (moved),Harold's Cross Road Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3196474,-6.2789984",,,53.3196474,-6.2789984,node,2986844485
+shop=electronics,Power City,,https://powercity.ie/,powercity.ie,"https://www.google.com/maps/search/?api=1&query=53.2783225,-6.1412515",,,53.2783225,-6.1412515,node,13088778479
+shop=electronics,Power City,Malahide Road Dublin,https://powercity.ie/,powercity.ie,"https://www.google.com/maps/search/?api=1&query=53.3920502,-6.1918011",,,53.3920502,-6.1918011,way,339519160
+shop=electronics,Remax,16a Patrick Street,,,"https://www.google.com/maps/search/?api=1&query=53.2916108,-6.137238",+353 1 558 5319,,53.2916108,-6.137238,node,10685727565
+shop=electronics,Rialto Electrical Limited,South Circular Road Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.336079,-6.298582",+353 1 4539331,,53.336079,-6.298582,node,2984153566
+shop=electronics,Safesounds,4 Richmond Road Dublin,http://www.safesounds.ie/,safesounds.ie,"https://www.google.com/maps/search/?api=1&query=53.3686207,-6.2548035",+353 1 8375357,,53.3686207,-6.2548035,node,3140481198
+shop=electronics,Serlex Engineering Limited,,,,"https://www.google.com/maps/search/?api=1&query=53.4437237,-6.2182952",,,53.4437237,-6.2182952,node,4776722331
+shop=electronics,Smart Mobile,Dame Street Dublin,https://smartmobiles.ie/,smartmobiles.ie,"https://www.google.com/maps/search/?api=1&query=53.3442684,-6.2666781",,,53.3442684,-6.2666781,node,2710596556
+shop=electronics,Sundrive Electrical,Sundrive Road,,,"https://www.google.com/maps/search/?api=1&query=53.3211559,-6.2935366",,,53.3211559,-6.2935366,node,2989946093
+shop=electronics,Techworld,13 Liffey Street Upper Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.348815,-6.2641336",,,53.348815,-6.2641336,node,5377069140
+shop=electronics,Utech Charlestown,Saint Margaret's Road,http://www.utech.ie,utech.ie,"https://www.google.com/maps/search/?api=1&query=53.4040907,-6.3033139",+353 89 445 0488,,53.4040907,-6.3033139,node,13525591301
+shop=electronics,V-GSM,7 Carysfort Avenue Blackrock A94 K6Y5,http://v-gsm.com/,v-gsm.com,"https://www.google.com/maps/search/?api=1&query=53.3007707,-6.1776214",+353-1-555-6686,,53.3007707,-6.1776214,node,3730419534
+shop=electronics,Zintek Systems,Greenhills Road,,,"https://www.google.com/maps/search/?api=1&query=53.2951414,-6.3542401",,,53.2951414,-6.3542401,node,1991035242
+shop=electronics,iFix Electronic Repair,,,,"https://www.google.com/maps/search/?api=1&query=53.2893562,-6.200708",+353-1-288-3322,,53.2893562,-6.200708,node,4080234183
+shop=mobile_phone,3 Store,Main Street,,,"https://www.google.com/maps/search/?api=1&query=53.20459,-6.1091817",,3 Store,53.20459,-6.1091817,node,4818660251
+shop=mobile_phone,3 Store,Mary Street Dublin,https://www.three.ie/,three.ie,"https://www.google.com/maps/search/?api=1&query=53.3490335,-6.2646883",,3 Store,53.3490335,-6.2646883,node,5377095226
+shop=mobile_phone,3 Store,,,,"https://www.google.com/maps/search/?api=1&query=53.3524871,-6.3915332",,3 Store,53.3524871,-6.3915332,node,5556478121
+shop=mobile_phone,3 Store,Sandyford Road,https://three.ie,three.ie,"https://www.google.com/maps/search/?api=1&query=53.2866421,-6.2412094",,3 Store,53.2866421,-6.2412094,node,11825145016
+shop=mobile_phone,3 Store,75 George's Street Lower Dún Laoghaire,https://www.three.ie/,three.ie,"https://www.google.com/maps/search/?api=1&query=53.2923452,-6.1364667",,3 Store,53.2923452,-6.1364667,way,58693014
+shop=mobile_phone,3 Store,46 Grafton Street Dublin,https://www.three.ie/stores/three-store-grafton-street,three.ie,"https://www.google.com/maps/search/?api=1&query=53.3403665,-6.2604938",,3 Store,53.3403665,-6.2604938,way,230479377
+shop=mobile_phone,3 Store,35 Henry Street Dublin,https://www.three.ie/stores/three-store-henry-street,three.ie,"https://www.google.com/maps/search/?api=1&query=53.3497656,-6.2612514",,3 Store,53.3497656,-6.2612514,way,435840491
+shop=mobile_phone,AM Mobile,Mary Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3485405,-6.2677639",,,53.3485405,-6.2677639,node,10207785882
+shop=mobile_phone,Ballyfermot Tech,,,,"https://www.google.com/maps/search/?api=1&query=53.342416,-6.3526669",,,53.342416,-6.3526669,node,8521097199
+shop=mobile_phone,City Communications,Clanbrassil Street Lower Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3342352,-6.2751051",,,53.3342352,-6.2751051,node,3028114730
+shop=mobile_phone,Eir,Cromwellsfort Road Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3157775,-6.3175446",,Eir,53.3157775,-6.3175446,node,4913827542
+shop=mobile_phone,Eir,,,,"https://www.google.com/maps/search/?api=1&query=53.3524516,-6.3917461",,Eir,53.3524516,-6.3917461,node,5556378954
+shop=mobile_phone,Eir,Malahide Road Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.4011879,-6.1796062",,Eir,53.4011879,-6.1796062,node,5562028789
+shop=mobile_phone,Eir,Grafton Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3417765,-6.2599663",,Eir,53.3417765,-6.2599663,node,6772160809
+shop=mobile_phone,Eir,,,,"https://www.google.com/maps/search/?api=1&query=53.3934951,-6.390969",,Eir,53.3934951,-6.390969,node,10562208172
+shop=mobile_phone,Eir,,,,"https://www.google.com/maps/search/?api=1&query=53.2925857,-6.1353104",+353 1 2311 544,Eir,53.2925857,-6.1353104,node,10723926495
+shop=mobile_phone,Eir,,,,"https://www.google.com/maps/search/?api=1&query=53.3246781,-6.3962339",,Eir,53.3246781,-6.3962339,node,12636352970
+shop=mobile_phone,Eir,34 Henry Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.349782,-6.2611519",,Eir,53.349782,-6.2611519,way,435840492
+shop=mobile_phone,Eir / Meteor,,,,"https://www.google.com/maps/search/?api=1&query=53.392544,-6.2480924",,Eir,53.392544,-6.2480924,node,4105794008
+shop=mobile_phone,FAST Sales & Repair,O'Connell Street Lower Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.348661,-6.2594222",,,53.348661,-6.2594222,node,5628924042
+shop=mobile_phone,FM Mobiles,40 George's Street Great South Dublin,http://fmmobiles.ie/,fmmobiles.ie,"https://www.google.com/maps/search/?api=1&query=53.3418268,-6.2647615",+353 1 6750692,,53.3418268,-6.2647615,node,2997543387
+shop=mobile_phone,Fixstop Phonetix,352 North Circular Road,,,"https://www.google.com/maps/search/?api=1&query=53.3607291,-6.2734912",,,53.3607291,-6.2734912,node,6205757550
+shop=mobile_phone,Fone4u,Main Street Bray,,,"https://www.google.com/maps/search/?api=1&query=53.2028739,-6.1096318",,,53.2028739,-6.1096318,node,8419571420
+shop=mobile_phone,Fonua,,,,"https://www.google.com/maps/search/?api=1&query=53.2696115,-6.2005078",,,53.2696115,-6.2005078,node,3985753838
+shop=mobile_phone,GSM Connection,Talbot Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3507433,-6.2538233",,,53.3507433,-6.2538233,node,5585403355
+shop=mobile_phone,GSM Workshop,,,,"https://www.google.com/maps/search/?api=1&query=53.3502425,-6.256932",,,53.3502425,-6.256932,node,6544830666
+shop=mobile_phone,Hugmie,Nutgrove Way,,,"https://www.google.com/maps/search/?api=1&query=53.2898953,-6.2669679",,,53.2898953,-6.2669679,node,12915650375
+shop=mobile_phone,IT Star,Rathmines Road Lower Dublin,https://itstar.ie/,itstar.ie,"https://www.google.com/maps/search/?api=1&query=53.3221106,-6.2655744",,,53.3221106,-6.2655744,node,2797135300
+shop=mobile_phone,It fix,,,,"https://www.google.com/maps/search/?api=1&query=53.3513889,-6.264217",,,53.3513889,-6.264217,node,11243891562
+shop=mobile_phone,Mobile Fix,36 Aungier Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.338775,-6.2658736",,,53.338775,-6.2658736,node,2996360238
+shop=mobile_phone,Mr. Fixs,Mercer Street,,,"https://www.google.com/maps/search/?api=1&query=53.3391183,-6.2642688",,,53.3391183,-6.2642688,node,6185171881
+shop=mobile_phone,Mr. iPhone,2 Clanbrassil Street Upper Dublin,http://mriphonedublin.com/,mriphonedublin.com,"https://www.google.com/maps/search/?api=1&query=53.3320771,-6.2753727",+353 1 4411211,,53.3320771,-6.2753727,node,3028081128
+shop=mobile_phone,Mr. iPhone,Phibsborough Road Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.359988,-6.2728364",,,53.359988,-6.2728364,node,3054706961
+shop=mobile_phone,Murray Mobile,2 Rathmines Road Upper Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3215729,-6.2656752",+353 1 4411340,,53.3215729,-6.2656752,node,4396962948
+shop=mobile_phone,Murray Mobile,,,,"https://www.google.com/maps/search/?api=1&query=53.3009698,-6.1817139",,,53.3009698,-6.1817139,node,6680245081
+shop=mobile_phone,Murray Mobile,,,,"https://www.google.com/maps/search/?api=1&query=53.3432818,-6.3564579",,,53.3432818,-6.3564579,node,8521097210
+shop=mobile_phone,OMG,159 Parnell Street,,,"https://www.google.com/maps/search/?api=1&query=53.3530881,-6.2607032",,,53.3530881,-6.2607032,node,5301563873
+shop=mobile_phone,Pair,32 Wicklow Street Dublin,https://pairmobile.ie/,pairmobile.ie,"https://www.google.com/maps/search/?api=1&query=53.3429539,-6.2611356",+353 170 79926,,53.3429539,-6.2611356,node,4100276892
+shop=mobile_phone,Phonely,Liffey Street Lower Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3470324,-6.2634763",,,53.3470324,-6.2634763,node,5376941078
+shop=mobile_phone,Reboot,Harbour Road,,,"https://www.google.com/maps/search/?api=1&query=53.387705,-6.0677227",,,53.387705,-6.0677227,node,6660318793
+shop=mobile_phone,Ryan's,Tyrrelstown Plaza Tyrrelstown,,,"https://www.google.com/maps/search/?api=1&query=53.4201478,-6.3834986",,,53.4201478,-6.3834986,node,2459649520
+shop=mobile_phone,Share Mobile,30 Thomas Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3429096,-6.2806757",,,53.3429096,-6.2806757,node,3124989762
+shop=mobile_phone,V-Repair,33 Aungier Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3389448,-6.2658365",,,53.3389448,-6.2658365,node,2996360243
+shop=mobile_phone,Vodafone,Rock Hill Blackrock,https://www.vodafone.ie/,vodafone.ie,"https://www.google.com/maps/search/?api=1&query=53.3012784,-6.1813951",353-1-283-4111,Vodafone,53.3012784,-6.1813951,node,6680215401
+shop=mobile_phone,Vodafone,Henry Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3494181,-6.2620837",,Vodafone,53.3494181,-6.2620837,node,6983479285
+shop=mobile_phone,Vodafone,,,,"https://www.google.com/maps/search/?api=1&query=53.3921534,-6.2480297",,Vodafone,53.3921534,-6.2480297,node,10591640487
+shop=mobile_phone,Vodafone,,https://n.vodafone.ie/,n.vodafone.ie,"https://www.google.com/maps/search/?api=1&query=53.2925576,-6.1353506",+353 1 901 1113,Vodafone,53.2925576,-6.1353506,node,10918210702
+shop=mobile_phone,Vodafone,Sandyford Road Dundrum,,,"https://www.google.com/maps/search/?api=1&query=53.2866545,-6.241076",,Vodafone,53.2866545,-6.241076,node,11825145015
+shop=mobile_phone,Vodafone,48 Grafton Street Dublin,https://n.vodafone.ie/,n.vodafone.ie,"https://www.google.com/maps/search/?api=1&query=53.340272,-6.2605039",,Vodafone,53.340272,-6.2605039,way,230479371
+shop=mobile_phone,Vodafone – Western Union – National lottery,,,,"https://www.google.com/maps/search/?api=1&query=53.2929557,-6.1385442",,,53.2929557,-6.1385442,node,11534769069
+shop=mobile_phone,Walk & Talk,Dorset Street Lower,,,"https://www.google.com/maps/search/?api=1&query=53.3596693,-6.2616292",+353-1-5614594,,53.3596693,-6.2616292,node,6163677287
+shop=mobile_phone,iDFL,A96 HD51,https://idflmobile.com/,idflmobile.com,"https://www.google.com/maps/search/?api=1&query=53.2929732,-6.1395314",+353-1-561-4032,,53.2929732,-6.1395314,node,9407869217
+shop=mobile_phone,iPhone and Laptop Service,95 Parnell Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3533598,-6.2594842",,,53.3533598,-6.2594842,node,5301581779
+shop=mobile_phone,iwant Mobile,Aston Quay Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3463775,-6.2609695",,,53.3463775,-6.2609695,node,5366449968
+shop=mobile_phone,iwant Mobile,,,,"https://www.google.com/maps/search/?api=1&query=53.3462288,-6.2677672",,,53.3462288,-6.2677672,node,13243773502
+shop=shoes,ASICS,43-44 O'Connell Street Lower Dublin,https://www.asics.com/ie/en-ie/store/0000004991/,asics.com,"https://www.google.com/maps/search/?api=1&query=53.3484908,-6.2601383",,ASICS,53.3484908,-6.2601383,node,10114707286
+shop=shoes,Calzature,,,,"https://www.google.com/maps/search/?api=1&query=53.3895148,-6.2987321",,,53.3895148,-6.2987321,way,1022471507
+shop=shoes,Camper,Wicklow Street Dublin,https://www.camper.com/en_IE/shops/ireland/dublin/store_shoes_10_wicklow_st_dublin2-T101,camper.com,"https://www.google.com/maps/search/?api=1&query=53.3429349,-6.2606343",,Camper,53.3429349,-6.2606343,node,2826505974
+shop=shoes,Carl Scarpa,Kilmacud Road Lower,https://www.carlscarpa.com/,carlscarpa.com,"https://www.google.com/maps/search/?api=1&query=53.289144,-6.2004512",+353-1-278-2644,,53.289144,-6.2004512,node,4080220589
+shop=shoes,Carl Scarpa,Grafton Street Dublin,https://www.carlscarpa.com/en/Grafton-Street-Carl-Scarpa/cc-36.aspx,carlscarpa.com,"https://www.google.com/maps/search/?api=1&query=53.3417348,-6.2599907",,,53.3417348,-6.2599907,node,6772160814
+shop=shoes,China Blue,Wellington Quay Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3459561,-6.2629999",,,53.3459561,-6.2629999,node,6128203806
+shop=shoes,Clarks,,,,"https://www.google.com/maps/search/?api=1&query=53.3525952,-6.3913257",,Clarks,53.3525952,-6.3913257,node,5556380347
+shop=shoes,Clarks,Henry Street Dublin,https://www.clarks.ie/store-locator/Ireland/DUBLIN1/1901,clarks.ie,"https://www.google.com/maps/search/?api=1&query=53.3494515,-6.2618162",,Clarks,53.3494515,-6.2618162,node,10079507997
+shop=shoes,Clarks,,,,"https://www.google.com/maps/search/?api=1&query=53.2866891,-6.2413411",,Clarks,53.2866891,-6.2413411,node,11940354096
+shop=shoes,Clarks,85-86 Grafton Street Dublin,https://www.clarks.ie/store-locator/Ireland/DUBLIN2/1903,clarks.ie,"https://www.google.com/maps/search/?api=1&query=53.3421305,-6.2602567",,Clarks,53.3421305,-6.2602567,way,271686285
+shop=shoes,Cripps,4 Terenure Place Dublin,https://www.facebook.com/CrippsFootwear,facebook.com,"https://www.google.com/maps/search/?api=1&query=53.3095416,-6.2842708",+353 1 4907237,,53.3095416,-6.2842708,node,3108833952
+shop=shoes,Dr. Martens,Grafton Street Dublin,https://www.drmartens.com/,drmartens.com,"https://www.google.com/maps/search/?api=1&query=53.3419092,-6.2597711",,Dr. Martens,53.3419092,-6.2597711,node,5781768897
+shop=shoes,Dr. Martens,83 Grafton Street Dublin D02F798,https://www.drmartens.com/,drmartens.com,"https://www.google.com/maps/search/?api=1&query=53.3419713,-6.2601522",,Dr. Martens,53.3419713,-6.2601522,way,271686283
+shop=shoes,Dubarry of Ireland,35 College Green Dublin,https://www.dubarry.com/ie/,dubarry.com,"https://www.google.com/maps/search/?api=1&query=53.3441711,-6.2598554",+353 1 6779001,,53.3441711,-6.2598554,node,3003815620
+shop=shoes,Dune London,69 Grafton Street Dublin,https://www.dunelondon.com,dunelondon.com,"https://www.google.com/maps/search/?api=1&query=53.3410866,-6.260689",,Dune London,53.3410866,-6.260689,node,6187145170
+shop=shoes,Dune London,Sandyford Road,https://www.dunelondon.com/,dunelondon.com,"https://www.google.com/maps/search/?api=1&query=53.2868943,-6.2418515",,,53.2868943,-6.2418515,node,11825051329
+shop=shoes,Ecco,11 Wicklow Street Dublin,https://ie.ecco.com/en-IE/CustomerCare/StoreFinder?lat=53.3430838&lng=-6.2613875&id=0001051205,ie.ecco.com,"https://www.google.com/maps/search/?api=1&query=53.3429552,-6.2607001",,Ecco,53.3429552,-6.2607001,node,2826508118
+shop=shoes,Ecco,Old Dublin Road,https://ie.ecco.com/en-IE,ie.ecco.com,"https://www.google.com/maps/search/?api=1&query=53.2896302,-6.2008088",+353-1-288-0859,Ecco,53.2896302,-6.2008088,node,3584234272
+shop=shoes,Ecco,14 George's Street Upper Dún Laoghaire,https://ie.ecco.com/,ie.ecco.com,"https://www.google.com/maps/search/?api=1&query=53.2918241,-6.135297",,Ecco,53.2918241,-6.135297,node,4558970185
+shop=shoes,Ecco,,,,"https://www.google.com/maps/search/?api=1&query=53.3526385,-6.3909872",,Ecco,53.3526385,-6.3909872,node,11030167569
+shop=shoes,Ecco,30 Grafton Street Dublin,https://ie.ecco.com/en-IE/CustomerCare/StoreFinder?lat=53.34157131&lng=-6.260051728&id=0001044461,ie.ecco.com,"https://www.google.com/maps/search/?api=1&query=53.3414293,-6.2601208",,Ecco,53.3414293,-6.2601208,way,249260481
+shop=shoes,Fay's Dancing Shoes,54 Dorset Street Lower,https://www.fays-shoes.com/,fays-shoes.com,"https://www.google.com/maps/search/?api=1&query=53.36099,-6.2598569",+353-1-8555421,,53.36099,-6.2598569,node,1350207383
+shop=shoes,Foot Locker,,,,"https://www.google.com/maps/search/?api=1&query=53.2860488,-6.3716569",,Foot Locker,53.2860488,-6.3716569,node,9286641793
+shop=shoes,Foot Locker,49 O'Connell Street Lower Dublin D01 CK02,https://stores.footlocker.ie/en/ie-d/dublin/49-lower-oconnell-street-205_31_04703.html,stores.footlocker.ie,"https://www.google.com/maps/search/?api=1&query=53.3479579,-6.2600285",+35315691038,Foot Locker,53.3479579,-6.2600285,way,249210751
+shop=shoes,Foot Solutions,Old Dublin Road,https://www.footsolutions.ie/stillorgan/,footsolutions.ie,"https://www.google.com/maps/search/?api=1&query=53.2897028,-6.2004893",+353 1 2121 040,Foot Solutions,53.2897028,-6.2004893,node,3750529743
+shop=shoes,Foot Solutions,61 George's Street Great South Dublin,https://www.footsolutions.ie/locations/foot-solutions-georges-street/,footsolutions.ie,"https://www.google.com/maps/search/?api=1&query=53.3423131,-6.2650033",,Foot Solutions,53.3423131,-6.2650033,way,549576992
+shop=shoes,House of Shoes,,,,"https://www.google.com/maps/search/?api=1&query=53.2869616,-6.1234978",,,53.2869616,-6.1234978,node,11522541532
+shop=shoes,Julia Rossini,,,,"https://www.google.com/maps/search/?api=1&query=53.3018153,-6.1802179",+353-1-288-5317,,53.3018153,-6.1802179,node,4938934821
+shop=shoes,King of Trainers,40 Grafton Street Dublin,https://www.jdsports.com/king-of-trainers,jdsports.com,"https://www.google.com/maps/search/?api=1&query=53.3407731,-6.26055",,,53.3407731,-6.26055,node,6187145164
+shop=shoes,Mac Shoe Repair,Merville Avenue,,,"https://www.google.com/maps/search/?api=1&query=53.3638228,-6.2343118",,,53.3638228,-6.2343118,way,1043292701
+shop=shoes,O' Neills,Talbot Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.350645,-6.2558118",,,53.350645,-6.2558118,node,2706778087
+shop=shoes,Office,,,,"https://www.google.com/maps/search/?api=1&query=53.3527993,-6.3909864",,Office,53.3527993,-6.3909864,node,11030167567
+shop=shoes,Office,,https://www.office.co.uk/view/content/storelocator?storename=Office%20Dundrum,office.co.uk,"https://www.google.com/maps/search/?api=1&query=53.286611,-6.2410258",,Office,53.286611,-6.2410258,node,11940354103
+shop=shoes,Office,7 Grafton Street Dublin,https://www.office.co.uk/view/content/storelocator?storename=Office%20Grafton%20Street,office.co.uk,"https://www.google.com/maps/search/?api=1&query=53.3427431,-6.259378",,Office,53.3427431,-6.259378,way,271971145
+shop=shoes,Porky’s,Sandyford Road,,,"https://www.google.com/maps/search/?api=1&query=53.2866359,-6.2410299",,,53.2866359,-6.2410299,node,11940039989
+shop=shoes,RAINS,Wicklow Street Dublin,https://www.rains.com/,rains.com,"https://www.google.com/maps/search/?api=1&query=53.3431077,-6.2615758",,,53.3431077,-6.2615758,node,12093934863
+shop=shoes,Scarlet Slippers,134 Terenure Road North Dublin,https://scarletslippersterenure.wordpress.com/,scarletslippersterenure.wordpress.com,"https://www.google.com/maps/search/?api=1&query=53.3101576,-6.2835857",+353 1 4990532,,53.3101576,-6.2835857,node,3106286538
+shop=shoes,Schuh,,,,"https://www.google.com/maps/search/?api=1&query=53.3524605,-6.3913181",,Schuh,53.3524605,-6.3913181,node,5556412125
+shop=shoes,Schuh,47-48 O'Connell Street Lower Dublin D01 PK22,https://www.schuh.ie/stores/dublin-o'connell-street/,schuh.ie,"https://www.google.com/maps/search/?api=1&query=53.3480421,-6.2600419",+353-1-2476147,Schuh,53.3480421,-6.2600419,way,249210757
+shop=shoes,Shoe,18 Georges Street Upper Dún Laoghaire A96 T1X6,https://shoeonline.ie,shoeonline.ie,"https://www.google.com/maps/search/?api=1&query=53.2917175,-6.1349764",+353-1-280-3114,,53.2917175,-6.1349764,node,6184960052
+shop=shoes,Shoe Rack,,,,"https://www.google.com/maps/search/?api=1&query=53.2036696,-6.1095496",,,53.2036696,-6.1095496,node,7438803230
+shop=shoes,Size,26 Wicklow Street Dublin,https://www.sizeofficial.ie/store-locator/dublin/251/,sizeofficial.ie,"https://www.google.com/maps/search/?api=1&query=53.3429758,-6.2615969",,,53.3429758,-6.2615969,node,4583102538
+shop=shoes,Skechers,,,,"https://www.google.com/maps/search/?api=1&query=53.2859994,-6.3712044",,Skechers,53.2859994,-6.3712044,node,9359103755
+shop=shoes,Skechers,,,,"https://www.google.com/maps/search/?api=1&query=53.352731,-6.391089",,Skechers,53.352731,-6.391089,node,11030167573
+shop=shoes,Skechers,,,,"https://www.google.com/maps/search/?api=1&query=53.349087,-6.2640142",,Skechers,53.349087,-6.2640142,node,12926126846
+shop=shoes,Talbot Dance Centre,Talbot Street Dublin,,,"https://www.google.com/maps/search/?api=1&query=53.3510588,-6.2518225",,,53.3510588,-6.2518225,node,5585368940
+shop=shoes,The Gallery,72b Georges Street Upper Dún Laoghaire,,,"https://www.google.com/maps/search/?api=1&query=53.2899955,-6.1305262",,,53.2899955,-6.1305262,node,6013943583
+shop=shoes,Thomas Patrick,77 Grafton Street Dublin,https://www.thomaspatrick.com/,thomaspatrick.com,"https://www.google.com/maps/search/?api=1&query=53.3416378,-6.2603972",,,53.3416378,-6.2603972,way,249263087
+shop=shoes,dopl.,36 Wicklow Street Dublin,https://dopl.ie,dopl.ie,"https://www.google.com/maps/search/?api=1&query=53.3428324,-6.2608395",+353-1-675-3766,Birkenstock,53.3428324,-6.2608395,way,273993000
