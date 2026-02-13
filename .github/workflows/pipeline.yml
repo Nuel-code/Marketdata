@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: dublin-deals-pipeline
+  cancel-in-progress: true
+
 jobs:
   pipeline:
     runs-on: ubuntu-latest
@@ -41,6 +45,7 @@ jobs:
             dublin-store-cache-
 
       - name: Ensure store files exist (OSM only if needed)
+        timeout-minutes: 20
         shell: bash
         run: |
           set -e
@@ -66,11 +71,13 @@ jobs:
           exit 1
 
       - name: Discover promo URLs
+        timeout-minutes: 20
         run: |
           test -f stores_with_websites.csv
           python src/promo_discover.py
 
       - name: Extract deals (only if extractor exists)
+        timeout-minutes: 25
         shell: bash
         run: |
           set -e
@@ -81,6 +88,7 @@ jobs:
           fi
 
       - name: Export JSON feed (only if exporter exists)
+        timeout-minutes: 10
         shell: bash
         run: |
           set -e
@@ -90,10 +98,8 @@ jobs:
             echo "⚠️ src/export_feed.py not found — skipping JSON export."
           fi
 
-      # ----------------------------
-      # PUBLISH STEP (commits feed)
-      # ----------------------------
       - name: Publish JSON feed to repo (data/published_deals.json)
+        timeout-minutes: 5
         shell: bash
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -112,7 +118,6 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add data/published_deals.json
-
           git commit -m "Update published deals feed" || echo "No changes to commit"
 
           git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
